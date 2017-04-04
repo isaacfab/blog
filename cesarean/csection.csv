@@ -1,0 +1,1200 @@
+"","County","County.Code","Delivery.Method","Delivery.Method.Code","Births","Longitude","Latitude"
+"1","Baldwin County AL",1003,"Vaginal",1,1505,-87.7763333,30.6010744
+"2","Baldwin County AL",1003,"Cesarean",2,622,-87.7763333,30.6010744
+"3","Baldwin County AL",1003,"Not Stated",9,33,-87.7763333,30.6010744
+"4","Calhoun County AL",1015,"Vaginal",1,925,-85.80766,33.7701576
+"5","Calhoun County AL",1015,"Cesarean",2,417,-85.80766,33.7701576
+"6","Etowah County AL",1055,"Vaginal",1,790,-86.0529604,34.0455341
+"7","Etowah County AL",1055,"Cesarean",2,363,-86.0529604,34.0455341
+"8","Etowah County AL",1055,"Not Stated",9,29,-86.0529604,34.0455341
+"9","Jefferson County AL",1073,"Vaginal",1,5492,-86.9824288,33.4914122
+"10","Jefferson County AL",1073,"Cesarean",2,3118,-86.9824288,33.4914122
+"11","Jefferson County AL",1073,"Not Stated",9,30,-86.9824288,33.4914122
+"12","Lee County AL",1081,"Vaginal",1,1306,-85.3962769,32.5888702
+"13","Lee County AL",1081,"Cesarean",2,548,-85.3962769,32.5888702
+"14","Madison County AL",1089,"Vaginal",1,2580,-86.4996546,34.7239731
+"15","Madison County AL",1089,"Cesarean",2,1522,-86.4996546,34.7239731
+"16","Mobile County AL",1097,"Vaginal",1,3427,-88.2461183,30.6082227
+"17","Mobile County AL",1097,"Cesarean",2,2096,-88.2461183,30.6082227
+"18","Mobile County AL",1097,"Not Stated",9,55,-88.2461183,30.6082227
+"19","Montgomery County AL",1101,"Vaginal",1,2021,-86.1751759,32.2077447
+"20","Montgomery County AL",1101,"Cesarean",2,1092,-86.1751759,32.2077447
+"21","Montgomery County AL",1101,"Not Stated",9,53,-86.1751759,32.2077447
+"22","Morgan County AL",1103,"Vaginal",1,920,-86.8621827,34.4240875
+"23","Morgan County AL",1103,"Cesarean",2,488,-86.8621827,34.4240875
+"24","Shelby County AL",1117,"Vaginal",1,1477,-86.6611083,33.3039292
+"25","Shelby County AL",1117,"Cesarean",2,845,-86.6611083,33.3039292
+"26","Tuscaloosa County AL",1125,"Vaginal",1,1551,-87.460397,33.3227653
+"27","Tuscaloosa County AL",1125,"Cesarean",2,862,-87.460397,33.3227653
+"31","Anchorage Borough AK",2020,"Vaginal",1,3432,-149.9002778,61.2180556
+"32","Anchorage Borough AK",2020,"Cesarean",2,1344,-149.9002778,61.2180556
+"35","Cochise County AZ",4003,"Vaginal",1,1167,-109.949686,31.828458
+"36","Cochise County AZ",4003,"Cesarean",2,423,-109.949686,31.828458
+"37","Cochise County AZ",4003,"Not Stated",9,28,-109.949686,31.828458
+"38","Coconino County AZ",4005,"Vaginal",1,1300,-111.4752851,35.6647545
+"39","Coconino County AZ",4005,"Cesarean",2,341,-111.4752851,35.6647545
+"40","Maricopa County AZ",4013,"Vaginal",1,38610,-112.4291464,33.2917968
+"41","Maricopa County AZ",4013,"Cesarean",2,15155,-112.4291464,33.2917968
+"42","Maricopa County AZ",4013,"Not Stated",9,250,-112.4291464,33.2917968
+"43","Mohave County AZ",4015,"Vaginal",1,1341,-113.7632828,35.2143346
+"44","Mohave County AZ",4015,"Cesarean",2,510,-113.7632828,35.2143346
+"45","Mohave County AZ",4015,"Not Stated",9,33,-113.7632828,35.2143346
+"46","Pima County AZ",4019,"Vaginal",1,8937,-111.6660725,32.057499
+"47","Pima County AZ",4019,"Cesarean",2,2992,-111.6660725,32.057499
+"48","Pima County AZ",4019,"Not Stated",9,65,-111.6660725,32.057499
+"49","Pinal County AZ",4021,"Vaginal",1,3176,-111.2845025,32.8162061
+"50","Pinal County AZ",4021,"Cesarean",2,1371,-111.2845025,32.8162061
+"51","Pinal County AZ",4021,"Not Stated",9,28,-111.2845025,32.8162061
+"52","Yavapai County AZ",4025,"Vaginal",1,1275,-112.4291464,34.6463981
+"53","Yavapai County AZ",4025,"Cesarean",2,542,-112.4291464,34.6463981
+"54","Yuma County AZ",4027,"Vaginal",1,2259,-113.9536466,32.6527533
+"55","Yuma County AZ",4027,"Cesarean",2,864,-113.9536466,32.6527533
+"56","Yuma County AZ",4027,"Not Stated",9,18,-113.9536466,32.6527533
+"57","Unidentified Counties AZ",4999,"Vaginal",1,3734,-111.0937311,34.0489281
+"58","Unidentified Counties AZ",4999,"Cesarean",2,1149,-111.0937311,34.0489281
+"59","Unidentified Counties AZ",4999,"Not Stated",9,17,-111.0937311,34.0489281
+"60","Benton County AR",5007,"Vaginal",1,2193,-94.479976,36.2661518
+"61","Benton County AR",5007,"Cesarean",2,1034,-94.479976,36.2661518
+"62","Benton County AR",5007,"Not Stated",9,11,-94.479976,36.2661518
+"63","Pulaski County AR",5119,"Vaginal",1,3676,-92.2236667,34.7538615
+"64","Pulaski County AR",5119,"Cesarean",2,1820,-92.2236667,34.7538615
+"65","Pulaski County AR",5119,"Not Stated",9,25,-92.2236667,34.7538615
+"66","Sebastian County AR",5131,"Vaginal",1,1013,-94.315422,35.2260397
+"67","Sebastian County AR",5131,"Cesarean",2,612,-94.315422,35.2260397
+"68","Washington County AR",5143,"Vaginal",1,2238,-94.1513764,35.9307703
+"69","Washington County AR",5143,"Cesarean",2,1001,-94.1513764,35.9307703
+"70","Washington County AR",5143,"Not Stated",9,20,-94.1513764,35.9307703
+"71","Unidentified Counties AR",5999,"Vaginal",1,15559,-91.8318334,35.20105
+"72","Unidentified Counties AR",5999,"Cesarean",2,8491,-91.8318334,35.20105
+"73","Unidentified Counties AR",5999,"Not Stated",9,137,-91.8318334,35.20105
+"74","Alameda County CA",6001,"Vaginal",1,13527,-121.7195459,37.6016892
+"75","Alameda County CA",6001,"Cesarean",2,5730,-121.7195459,37.6016892
+"76","Butte County CA",6007,"Vaginal",1,1712,-121.5370003,39.6253952
+"77","Butte County CA",6007,"Cesarean",2,703,-121.5370003,39.6253952
+"78","Contra Costa County CA",6013,"Vaginal",1,8747,-121.9017954,37.8534093
+"79","Contra Costa County CA",6013,"Cesarean",2,3407,-121.9017954,37.8534093
+"80","El Dorado County CA",6017,"Vaginal",1,1100,-120.4357631,38.7426376
+"81","El Dorado County CA",6017,"Cesarean",2,434,-120.4357631,38.7426376
+"82","Fresno County CA",6019,"Vaginal",1,10286,-119.2320784,36.9858984
+"83","Fresno County CA",6019,"Cesarean",2,5451,-119.2320784,36.9858984
+"84","Humboldt County CA",6023,"Vaginal",1,1152,-123.8695086,40.7450055
+"85","Humboldt County CA",6023,"Cesarean",2,379,-123.8695086,40.7450055
+"86","Imperial County CA",6025,"Vaginal",1,1894,-115.4733554,33.0113694
+"87","Imperial County CA",6025,"Cesarean",2,1200,-115.4733554,33.0113694
+"88","Kern County CA",6029,"Vaginal",1,10222,-118.8596804,35.4937274
+"89","Kern County CA",6029,"Cesarean",2,3927,-118.8596804,35.4937274
+"90","Kings County CA",6031,"Vaginal",1,1474,-119.8815203,36.0988489
+"91","Kings County CA",6031,"Cesarean",2,920,-119.8815203,36.0988489
+"92","Los Angeles County CA",6037,"Vaginal",1,80735,-118.2436596,34.0522265
+"93","Los Angeles County CA",6037,"Cesarean",2,47861,-118.2436596,34.0522265
+"94","Madera County CA",6039,"Vaginal",1,1510,-119.6962677,37.251926
+"95","Madera County CA",6039,"Cesarean",2,805,-119.6962677,37.251926
+"96","Marin County CA",6041,"Vaginal",1,1696,-122.7633036,38.083403
+"97","Marin County CA",6041,"Cesarean",2,625,-122.7633036,38.083403
+"98","Merced County CA",6047,"Vaginal",1,2670,-120.7120023,37.2009788
+"99","Merced County CA",6047,"Cesarean",2,1492,-120.7120023,37.2009788
+"100","Monterey County CA",6053,"Vaginal",1,4663,-121.3541631,36.3136201
+"101","Monterey County CA",6053,"Cesarean",2,1884,-121.3541631,36.3136201
+"102","Napa County CA",6055,"Vaginal",1,1045,-122.2653887,38.5024689
+"103","Napa County CA",6055,"Cesarean",2,405,-122.2653887,38.5024689
+"104","Orange County CA",6059,"Vaginal",1,24284,-117.8311428,33.7174708
+"105","Orange County CA",6059,"Cesarean",2,12997,-117.8311428,33.7174708
+"106","Placer County CA",6061,"Vaginal",1,2683,-120.8039474,39.0915751
+"107","Placer County CA",6061,"Cesarean",2,1005,-120.8039474,39.0915751
+"108","Riverside County CA",6065,"Vaginal",1,19986,-117.3961192,33.9532966
+"109","Riverside County CA",6065,"Cesarean",2,9955,-117.3961192,33.9532966
+"110","Sacramento County CA",6067,"Vaginal",1,13864,-121.3541631,38.47467
+"111","Sacramento County CA",6067,"Cesarean",2,5507,-121.3541631,38.47467
+"112","San Bernardino County CA",6071,"Vaginal",1,20079,-116.419389,34.9592083
+"113","San Bernardino County CA",6071,"Cesarean",2,10167,-116.419389,34.9592083
+"114","San Diego County CA",6073,"Vaginal",1,28851,-117.1610966,32.7157305
+"115","San Diego County CA",6073,"Cesarean",2,14808,-117.1610966,32.7157305
+"116","San Francisco County CA",6075,"Vaginal",1,6457,-122.4193878,37.7749073
+"117","San Francisco County CA",6075,"Cesarean",2,2357,-122.4193878,37.7749073
+"118","San Joaquin County CA",6077,"Vaginal",1,6642,-121.1710389,37.9175935
+"119","San Joaquin County CA",6077,"Cesarean",2,3158,-121.1710389,37.9175935
+"120","San Luis Obispo County CA",6079,"Vaginal",1,1848,-120.4357631,35.3102296
+"121","San Luis Obispo County CA",6079,"Cesarean",2,802,-120.4357631,35.3102296
+"122","San Mateo County CA",6081,"Vaginal",1,6328,-122.4014193,37.4337342
+"123","San Mateo County CA",6081,"Cesarean",2,2496,-122.4014193,37.4337342
+"124","Santa Barbara County CA",6083,"Vaginal",1,3943,-119.6982057,34.4208321
+"125","Santa Barbara County CA",6083,"Cesarean",2,1812,-119.6982057,34.4208321
+"126","Santa Clara County CA",6085,"Vaginal",1,16037,-121.8907041,37.3336581
+"127","Santa Clara County CA",6085,"Cesarean",2,7276,-121.8907041,37.3336581
+"128","Santa Cruz County CA",6087,"Vaginal",1,2047,-121.9579578,37.0453988
+"129","Santa Cruz County CA",6087,"Cesarean",2,824,-121.9579578,37.0453988
+"130","Shasta County CA",6089,"Vaginal",1,1386,-121.8474493,40.7908864
+"131","Shasta County CA",6089,"Cesarean",2,757,-121.8474493,40.7908864
+"132","Solano County CA",6095,"Vaginal",1,3818,-121.9017954,38.3104969
+"133","Solano County CA",6095,"Cesarean",2,1441,-121.9017954,38.3104969
+"134","Sonoma County CA",6097,"Vaginal",1,3694,-122.9888319,38.5779555
+"135","Sonoma County CA",6097,"Cesarean",2,1289,-122.9888319,38.5779555
+"136","Stanislaus County CA",6099,"Vaginal",1,5107,-120.9876321,37.5090711
+"137","Stanislaus County CA",6099,"Cesarean",2,2472,-120.9876321,37.5090711
+"138","Tulare County CA",6107,"Vaginal",1,4921,-118.8596804,36.1341739
+"139","Tulare County CA",6107,"Cesarean",2,2732,-118.8596804,36.1341739
+"140","Ventura County CA",6111,"Vaginal",1,6990,-119.1390642,34.3704884
+"141","Ventura County CA",6111,"Cesarean",2,3456,-119.1390642,34.3704884
+"142","Yolo County CA",6113,"Vaginal",1,1852,-121.9017954,38.7646021
+"143","Yolo County CA",6113,"Cesarean",2,639,-121.9017954,38.7646021
+"144","Unidentified Counties CA",6999,"Vaginal",1,7078,-119.4179324,36.778261
+"145","Unidentified Counties CA",6999,"Cesarean",2,3202,-119.4179324,36.778261
+"146","Adams County CO",8001,"Vaginal",1,5086,-104.1930918,39.8398269
+"147","Adams County CO",8001,"Cesarean",2,1443,-104.1930918,39.8398269
+"148","Arapahoe County CO",8005,"Vaginal",1,5522,-104.332644,39.62031
+"149","Arapahoe County CO",8005,"Cesarean",2,2154,-104.332644,39.62031
+"150","Boulder County CO",8013,"Vaginal",1,2222,-105.5005483,40.1512114
+"151","Boulder County CO",8013,"Cesarean",2,693,-105.5005483,40.1512114
+"152","Denver County CO",8031,"Vaginal",1,7423,-104.9622498,39.7616189
+"153","Denver County CO",8031,"Cesarean",2,2582,-104.9622498,39.7616189
+"154","Douglas County CO",8035,"Vaginal",1,2433,-104.9388853,39.2587106
+"155","Douglas County CO",8035,"Cesarean",2,1036,-104.9388853,39.2587106
+"156","El Paso County CO",8041,"Vaginal",1,7137,-104.4723301,38.9108325
+"157","El Paso County CO",8041,"Cesarean",2,2001,-104.4723301,38.9108325
+"158","Jefferson County CO",8059,"Vaginal",1,4175,-105.2662931,39.5800298
+"159","Jefferson County CO",8059,"Cesarean",2,1650,-105.2662931,39.5800298
+"160","Larimer County CO",8069,"Vaginal",1,2342,-105.5943388,40.6955572
+"161","Larimer County CO",8069,"Cesarean",2,1031,-105.5943388,40.6955572
+"162","Mesa County CO",8077,"Vaginal",1,1435,-108.6175626,38.9585381
+"163","Mesa County CO",8077,"Cesarean",2,374,-108.6175626,38.9585381
+"164","Pueblo County CO",8101,"Vaginal",1,1420,-104.4723301,38.2528534
+"165","Pueblo County CO",8101,"Cesarean",2,436,-104.4723301,38.2528534
+"166","Weld County CO",8123,"Vaginal",1,2773,-104.7158226,40.3920718
+"167","Weld County CO",8123,"Cesarean",2,1146,-104.7158226,40.3920718
+"170","Fairfield County CT",9001,"Vaginal",1,6166,-73.3708696,41.2559654
+"171","Fairfield County CT",9001,"Cesarean",2,3859,-73.3708696,41.2559654
+"172","Fairfield County CT",9001,"Not Stated",9,27,-73.3708696,41.2559654
+"173","Hartford County CT",9003,"Vaginal",1,6121,-72.8042797,41.7924343
+"174","Hartford County CT",9003,"Cesarean",2,3127,-72.8042797,41.7924343
+"175","Hartford County CT",9003,"Not Stated",9,67,-72.8042797,41.7924343
+"176","Litchfield County CT",9005,"Vaginal",1,919,-73.2765361,41.7866294
+"177","Litchfield County CT",9005,"Cesarean",2,504,-73.2765361,41.7866294
+"178","Middlesex County CT",9007,"Vaginal",1,883,-72.4731529,41.4698505
+"179","Middlesex County CT",9007,"Cesarean",2,481,-72.4731529,41.4698505
+"180","New Haven County CT",9009,"Vaginal",1,6046,-72.8042797,41.3266911
+"181","New Haven County CT",9009,"Cesarean",2,2908,-72.8042797,41.3266911
+"182","New Haven County CT",9009,"Not Stated",9,23,-72.8042797,41.3266911
+"183","New London County CT",9011,"Vaginal",1,1714,-72.0468164,41.5185189
+"184","New London County CT",9011,"Cesarean",2,902,-72.0468164,41.5185189
+"185","New London County CT",9011,"Not Stated",9,45,-72.0468164,41.5185189
+"186","Tolland County CT",9013,"Vaginal",1,741,-72.3784679,41.8418987
+"187","Tolland County CT",9013,"Cesarean",2,336,-72.3784679,41.8418987
+"188","Windham County CT",9015,"Vaginal",1,818,-72.0468164,41.8275622
+"189","Windham County CT",9015,"Cesarean",2,367,-72.0468164,41.8275622
+"190","Windham County CT",9015,"Not Stated",9,13,-72.0468164,41.8275622
+"191","Kent County DE",10001,"Vaginal",1,1506,-75.4344727,39.1440612
+"192","Kent County DE",10001,"Cesarean",2,617,-75.4344727,39.1440612
+"193","New Castle County DE",10003,"Vaginal",1,4411,-75.667356,39.5392979
+"194","New Castle County DE",10003,"Cesarean",2,2095,-75.667356,39.5392979
+"195","Sussex County DE",10005,"Vaginal",1,1502,-75.4344727,38.6530841
+"196","Sussex County DE",10005,"Cesarean",2,699,-75.4344727,38.6530841
+"197","District of Columbia DC",11001,"Vaginal",1,6111,-77.0368707,38.9071923
+"198","District of Columbia DC",11001,"Cesarean",2,3176,-77.0368707,38.9071923
+"199","Alachua County FL",12001,"Vaginal",1,1948,-82.3017728,29.6579549
+"200","Alachua County FL",12001,"Cesarean",2,878,-82.3017728,29.6579549
+"201","Bay County FL",12005,"Vaginal",1,1559,-85.684578,30.1805306
+"202","Bay County FL",12005,"Cesarean",2,681,-85.684578,30.1805306
+"203","Brevard County FL",12009,"Vaginal",1,3494,-80.7214417,28.263933
+"204","Brevard County FL",12009,"Cesarean",2,1589,-80.7214417,28.263933
+"205","Broward County FL",12011,"Vaginal",1,12537,-80.365865,26.190096
+"206","Broward County FL",12011,"Cesarean",2,9021,-80.365865,26.190096
+"207","Charlotte County FL",12015,"Vaginal",1,652,-81.909826,26.8946009
+"208","Charlotte County FL",12015,"Cesarean",2,372,-81.909826,26.8946009
+"209","Citrus County FL",12017,"Vaginal",1,720,-82.5185837,28.8848842
+"210","Citrus County FL",12017,"Cesarean",2,301,-82.5185837,28.8848842
+"211","Clay County FL",12019,"Vaginal",1,1427,-81.7787021,29.9943564
+"212","Clay County FL",12019,"Cesarean",2,657,-81.7787021,29.9943564
+"213","Collier County FL",12021,"Vaginal",1,1859,-81.4278984,26.069985
+"214","Collier County FL",12021,"Cesarean",2,1297,-81.4278984,26.069985
+"215","Duval County FL",12031,"Vaginal",1,8328,-81.6035062,30.3500511
+"216","Duval County FL",12031,"Cesarean",2,4226,-81.6035062,30.3500511
+"217","Duval County FL",12031,"Not Stated",9,24,-81.6035062,30.3500511
+"218","Escambia County FL",12033,"Vaginal",1,2609,-87.3413599,30.6389408
+"219","Escambia County FL",12033,"Cesarean",2,1202,-87.3413599,30.6389408
+"220","Hernando County FL",12053,"Vaginal",1,961,-82.4752757,28.5578826
+"221","Hernando County FL",12053,"Cesarean",2,524,-82.4752757,28.5578826
+"222","Hillsborough County FL",12057,"Vaginal",1,10643,-82.3017728,27.9903597
+"223","Hillsborough County FL",12057,"Cesarean",2,5972,-82.3017728,27.9903597
+"224","Hillsborough County FL",12057,"Not Stated",9,10,-82.3017728,27.9903597
+"225","Indian River County FL",12061,"Vaginal",1,799,-80.543845,27.6947732
+"226","Indian River County FL",12061,"Cesarean",2,421,-80.543845,27.6947732
+"227","Lake County FL",12069,"Vaginal",1,1924,-81.7787021,28.702847
+"228","Lake County FL",12069,"Cesarean",2,1155,-81.7787021,28.702847
+"229","Lee County FL",12071,"Vaginal",1,3972,-81.9534815,26.6630286
+"230","Lee County FL",12071,"Cesarean",2,2431,-81.9534815,26.6630286
+"231","Leon County FL",12073,"Vaginal",1,2059,-84.1857115,30.4906177
+"232","Leon County FL",12073,"Cesarean",2,951,-84.1857115,30.4906177
+"233","Manatee County FL",12081,"Vaginal",1,2256,-82.345189,27.4799195
+"234","Manatee County FL",12081,"Cesarean",2,1122,-82.345189,27.4799195
+"235","Marion County FL",12083,"Vaginal",1,2324,-82.12784,29.2787765
+"236","Marion County FL",12083,"Cesarean",2,1016,-82.12784,29.2787765
+"237","Martin County FL",12085,"Vaginal",1,818,-80.4103957,27.0804935
+"238","Martin County FL",12085,"Cesarean",2,357,-80.4103957,27.0804935
+"239","Miami-Dade County FL",12086,"Vaginal",1,15862,-80.1917902,25.7616798
+"240","Miami-Dade County FL",12086,"Cesarean",2,15316,-80.1917902,25.7616798
+"241","Miami-Dade County FL",12086,"Not Stated",9,11,-80.1917902,25.7616798
+"242","Okaloosa County FL",12091,"Vaginal",1,1859,-86.6611083,30.5773401
+"243","Okaloosa County FL",12091,"Cesarean",2,904,-86.6611083,30.5773401
+"244","Orange County FL",12095,"Vaginal",1,10238,-81.2518833,28.4844995
+"245","Orange County FL",12095,"Cesarean",2,5589,-81.2518833,28.4844995
+"246","Osceola County FL",12097,"Vaginal",1,2504,-81.0754657,28.1019838
+"247","Osceola County FL",12097,"Cesarean",2,1408,-81.0754657,28.1019838
+"248","Palm Beach County FL",12099,"Vaginal",1,8635,-80.2767327,26.6514503
+"249","Palm Beach County FL",12099,"Cesarean",2,5569,-80.2767327,26.6514503
+"250","Pasco County FL",12101,"Vaginal",1,2940,-82.4319405,28.3232418
+"251","Pasco County FL",12101,"Cesarean",2,1852,-82.4319405,28.3232418
+"252","Pinellas County FL",12103,"Vaginal",1,5752,-82.7778579,27.876394
+"253","Pinellas County FL",12103,"Cesarean",2,2828,-82.7778579,27.876394
+"254","Polk County FL",12105,"Vaginal",1,4896,-81.6911559,27.8617347
+"255","Polk County FL",12105,"Cesarean",2,2361,-81.6911559,27.8617347
+"256","St. Johns County FL",12109,"Vaginal",1,1335,-81.4278984,29.9719419
+"257","St. Johns County FL",12109,"Cesarean",2,656,-81.4278984,29.9719419
+"258","St. Lucie County FL",12111,"Vaginal",1,1785,-80.543845,27.3225563
+"259","St. Lucie County FL",12111,"Cesarean",2,1205,-80.543845,27.3225563
+"260","Santa Rosa County FL",12113,"Vaginal",1,1237,-86.9824288,30.7689907
+"261","Santa Rosa County FL",12113,"Cesarean",2,562,-86.9824288,30.7689907
+"262","Sarasota County FL",12115,"Vaginal",1,1795,-82.345189,27.1995986
+"263","Sarasota County FL",12115,"Cesarean",2,1009,-82.345189,27.1995986
+"264","Seminole County FL",12117,"Vaginal",1,2809,-81.2078164,28.7131688
+"265","Seminole County FL",12117,"Cesarean",2,1613,-81.2078164,28.7131688
+"266","Volusia County FL",12127,"Vaginal",1,2944,-81.0754657,29.0279842
+"267","Volusia County FL",12127,"Cesarean",2,1691,-81.0754657,29.0279842
+"268","Unidentified Counties FL",12999,"Vaginal",1,8582,-81.5157535,27.6648274
+"269","Unidentified Counties FL",12999,"Cesarean",2,4501,-81.5157535,27.6648274
+"270","Bibb County GA",13021,"Vaginal",1,1561,-83.7199136,32.7865735
+"271","Bibb County GA",13021,"Cesarean",2,769,-83.7199136,32.7865735
+"272","Chatham County GA",13051,"Vaginal",1,2408,-81.1196075,31.9994194
+"273","Chatham County GA",13051,"Cesarean",2,1482,-81.1196075,31.9994194
+"274","Cherokee County GA",13057,"Vaginal",1,1786,-84.4802606,34.2514526
+"275","Cherokee County GA",13057,"Cesarean",2,937,-84.4802606,34.2514526
+"276","Clarke County GA",13059,"Vaginal",1,966,-83.357567,33.9519347
+"277","Clarke County GA",13059,"Cesarean",2,424,-83.357567,33.9519347
+"278","Clayton County GA",13063,"Vaginal",1,2503,-84.375233,33.5571944
+"279","Clayton County GA",13063,"Cesarean",2,1093,-84.375233,33.5571944
+"280","Clayton County GA",13063,"Not Stated",9,12,-84.375233,33.5571944
+"281","Cobb County GA",13067,"Vaginal",1,6020,-84.564147,33.8999297
+"282","Cobb County GA",13067,"Cesarean",2,3304,-84.564147,33.8999297
+"283","DeKalb County GA",13089,"Vaginal",1,7070,-84.2278796,33.7956441
+"284","DeKalb County GA",13089,"Cesarean",2,3735,-84.2278796,33.7956441
+"285","DeKalb County GA",13089,"Not Stated",9,23,-84.2278796,33.7956441
+"286","Fulton County GA",13121,"Vaginal",1,8642,-84.3962535,33.8033965
+"287","Fulton County GA",13121,"Cesarean",2,4505,-84.3962535,33.8033965
+"288","Fulton County GA",13121,"Not Stated",9,42,-84.3962535,33.8033965
+"289","Gwinnett County GA",13135,"Vaginal",1,7434,-84.0167423,33.9190653
+"290","Gwinnett County GA",13135,"Cesarean",2,3662,-84.0167423,33.9190653
+"291","Hall County GA",13139,"Vaginal",1,1726,-83.804868,34.30778
+"292","Hall County GA",13139,"Cesarean",2,740,-83.804868,34.30778
+"293","Henry County GA",13151,"Vaginal",1,1680,-84.1435136,33.4347963
+"294","Henry County GA",13151,"Cesarean",2,835,-84.1435136,33.4347963
+"295","Houston County GA",13153,"Vaginal",1,1273,-83.634843,32.4219655
+"296","Houston County GA",13153,"Cesarean",2,717,-83.634843,32.4219655
+"297","Muscogee County GA",13215,"Vaginal",1,2165,-84.8984775,32.4794133
+"298","Muscogee County GA",13215,"Cesarean",2,1030,-84.8984775,32.4794133
+"299","Muscogee County GA",13215,"Not Stated",9,14,-84.8984775,32.4794133
+"300","Richmond County GA",13245,"Vaginal",1,2211,-82.0842901,33.3205339
+"301","Richmond County GA",13245,"Cesarean",2,1086,-82.0842901,33.3205339
+"302","Unidentified Counties GA",13999,"Vaginal",1,37144,-82.9000751,32.1656221
+"303","Unidentified Counties GA",13999,"Cesarean",2,19601,-82.9000751,32.1656221
+"304","Unidentified Counties GA",13999,"Not Stated",9,109,-82.9000751,32.1656221
+"305","Hawaii County HI",15001,"Vaginal",1,1614,-155.6658568,19.5429151
+"306","Hawaii County HI",15001,"Cesarean",2,780,-155.6658568,19.5429151
+"307","Hawaii County HI",15001,"Not Stated",9,22,-155.6658568,19.5429151
+"308","Honolulu County HI",15003,"Vaginal",1,10411,-157.8584319,21.3069857
+"309","Honolulu County HI",15003,"Cesarean",2,3123,-157.8584319,21.3069857
+"310","Honolulu County HI",15003,"Not Stated",9,105,-157.8584319,21.3069857
+"311","Maui County HI",15009,"Vaginal",1,1446,-156.3319253,20.7983626
+"312","Maui County HI",15009,"Cesarean",2,604,-156.3319253,20.7983626
+"313","Maui County HI",15009,"Not Stated",9,10,-156.3319253,20.7983626
+"317","Ada County ID",16001,"Vaginal",1,3690,-116.2420304,43.478767
+"318","Ada County ID",16001,"Cesarean",2,1291,-116.2420304,43.478767
+"319","Canyon County ID",16027,"Vaginal",1,2309,-116.6865435,43.6779581
+"320","Canyon County ID",16027,"Cesarean",2,781,-116.6865435,43.6779581
+"321","Kootenai County ID",16055,"Vaginal",1,1287,-116.6222056,47.7568407
+"322","Kootenai County ID",16055,"Cesarean",2,423,-116.6222056,47.7568407
+"325","Champaign County IL",17019,"Vaginal",1,1528,-88.2461183,40.2138865
+"326","Champaign County IL",17019,"Cesarean",2,840,-88.2461183,40.2138865
+"327","Champaign County IL",17019,"Not Stated",9,18,-88.2461183,40.2138865
+"328","Cook County IL",17031,"Vaginal",1,47848,-87.697554,41.7376587
+"329","Cook County IL",17031,"Cesarean",2,20834,-87.697554,41.7376587
+"330","Cook County IL",17031,"Not Stated",9,248,-87.697554,41.7376587
+"331","DuPage County IL",17043,"Vaginal",1,7040,-88.0900762,41.8243831
+"332","DuPage County IL",17043,"Cesarean",2,3516,-88.0900762,41.8243831
+"333","DuPage County IL",17043,"Not Stated",9,36,-88.0900762,41.8243831
+"334","Kane County IL",17089,"Vaginal",1,4474,-88.4016041,41.987884
+"335","Kane County IL",17089,"Cesarean",2,2289,-88.4016041,41.987884
+"336","Kankakee County IL",17091,"Vaginal",1,952,-87.7763333,41.1790977
+"337","Kankakee County IL",17091,"Cesarean",2,404,-87.7763333,41.1790977
+"338","Lake County IL",17097,"Vaginal",1,5298,-87.8271534,42.3689363
+"339","Lake County IL",17097,"Cesarean",2,2548,-87.8271534,42.3689363
+"340","La Salle County IL",17099,"Vaginal",1,774,-88.9413865,41.4363987
+"341","La Salle County IL",17099,"Cesarean",2,357,-88.9413865,41.4363987
+"342","McHenry County IL",17111,"Vaginal",1,2138,-88.4016041,42.3039993
+"343","McHenry County IL",17111,"Cesarean",2,1025,-88.4016041,42.3039993
+"344","McLean County IL",17113,"Vaginal",1,1310,-88.864698,40.5478429
+"345","McLean County IL",17113,"Cesarean",2,831,-88.864698,40.5478429
+"346","Macon County IL",17115,"Vaginal",1,869,-89.0179332,39.8949055
+"347","Macon County IL",17115,"Cesarean",2,479,-89.0179332,39.8949055
+"348","Madison County IL",17119,"Vaginal",1,2157,-89.9253233,38.9041402
+"349","Madison County IL",17119,"Cesarean",2,932,-89.9253233,38.9041402
+"350","Peoria County IL",17143,"Vaginal",1,1762,-89.7755338,40.7156396
+"351","Peoria County IL",17143,"Cesarean",2,905,-89.7755338,40.7156396
+"352","Rock Island County IL",17161,"Vaginal",1,1209,-90.563609,41.3998209
+"353","Rock Island County IL",17161,"Cesarean",2,578,-90.563609,41.3998209
+"354","St. Clair County IL",17163,"Vaginal",1,2303,-89.9253233,38.400812
+"355","St. Clair County IL",17163,"Cesarean",2,1036,-89.9253233,38.400812
+"356","Sangamon County IL",17167,"Vaginal",1,1692,-89.6251646,39.7337353
+"357","Sangamon County IL",17167,"Cesarean",2,615,-89.6251646,39.7337353
+"358","Tazewell County IL",17179,"Vaginal",1,1101,-89.4742177,40.5522078
+"359","Tazewell County IL",17179,"Cesarean",2,493,-89.4742177,40.5522078
+"360","Will County IL",17197,"Vaginal",1,4920,-88.0900762,41.5054724
+"361","Will County IL",17197,"Cesarean",2,2723,-88.0900762,41.5054724
+"362","Winnebago County IL",17201,"Vaginal",1,2348,-89.1705998,42.3121109
+"363","Winnebago County IL",17201,"Cesarean",2,1183,-89.1705998,42.3121109
+"364","Unidentified Counties IL",17999,"Vaginal",1,17199,-89.3985283,40.6331249
+"365","Unidentified Counties IL",17999,"Cesarean",2,8085,-89.3985283,40.6331249
+"366","Unidentified Counties IL",17999,"Not Stated",9,15,-89.3985283,40.6331249
+"367","Allen County IN",18003,"Vaginal",1,3713,-85.023346,41.0932622
+"368","Allen County IN",18003,"Cesarean",2,1368,-85.023346,41.0932622
+"369","Delaware County IN",18035,"Vaginal",1,1035,-85.3962769,40.2583533
+"370","Delaware County IN",18035,"Cesarean",2,243,-85.3962769,40.2583533
+"371","Elkhart County IN",18039,"Vaginal",1,2171,-85.8486236,41.6062253
+"372","Elkhart County IN",18039,"Cesarean",2,798,-85.8486236,41.6062253
+"373","Hamilton County IN",18057,"Vaginal",1,2602,-86.0529604,40.0372797
+"374","Hamilton County IN",18057,"Cesarean",2,1272,-86.0529604,40.0372797
+"375","Hendricks County IN",18063,"Vaginal",1,1151,-86.5400674,39.8064942
+"376","Hendricks County IN",18063,"Cesarean",2,571,-86.5400674,39.8064942
+"377","Johnson County IN",18081,"Vaginal",1,1302,-86.1344697,39.4637793
+"378","Johnson County IN",18081,"Cesarean",2,508,-86.1344697,39.4637793
+"379","Lake County IN",18089,"Vaginal",1,4092,-87.3016132,41.4897279
+"380","Lake County IN",18089,"Cesarean",2,1928,-87.3016132,41.4897279
+"381","La Porte County IN",18091,"Vaginal",1,874,-86.8220341,41.4775131
+"382","La Porte County IN",18091,"Cesarean",2,442,-86.8220341,41.4775131
+"383","Madison County IN",18095,"Vaginal",1,999,-85.684578,40.1469349
+"384","Madison County IN",18095,"Cesarean",2,541,-85.684578,40.1469349
+"385","Marion County IN",18097,"Vaginal",1,10046,-86.1751759,39.83619
+"386","Marion County IN",18097,"Cesarean",2,4301,-86.1751759,39.83619
+"387","Monroe County IN",18105,"Vaginal",1,903,-86.4996546,39.1851445
+"388","Monroe County IN",18105,"Cesarean",2,364,-86.4996546,39.1851445
+"389","Porter County IN",18127,"Vaginal",1,1213,-87.1023746,41.5248577
+"390","Porter County IN",18127,"Cesarean",2,555,-87.1023746,41.5248577
+"391","St. Joseph County IN",18141,"Vaginal",1,2512,-86.3376761,41.6228085
+"392","St. Joseph County IN",18141,"Cesarean",2,1046,-86.3376761,41.6228085
+"393","Tippecanoe County IN",18157,"Vaginal",1,1686,-86.8220341,40.3469731
+"394","Tippecanoe County IN",18157,"Cesarean",2,532,-86.8220341,40.3469731
+"395","Vanderburgh County IN",18163,"Vaginal",1,1454,-87.5791287,38.0806099
+"396","Vanderburgh County IN",18163,"Cesarean",2,810,-87.5791287,38.0806099
+"397","Vigo County IN",18167,"Vaginal",1,822,-87.4207518,39.4165382
+"398","Vigo County IN",18167,"Cesarean",2,462,-87.4207518,39.4165382
+"401","Black Hawk County IA",19013,"Vaginal",1,1293,-92.3813621,42.447804
+"402","Black Hawk County IA",19013,"Cesarean",2,396,-92.3813621,42.447804
+"403","Johnson County IA",19103,"Vaginal",1,1342,-91.5983959,41.6698982
+"404","Johnson County IA",19103,"Cesarean",2,425,-91.5983959,41.6698982
+"405","Linn County IA",19113,"Vaginal",1,1891,-91.6760691,42.0659844
+"406","Linn County IA",19113,"Cesarean",2,814,-91.6760691,42.0659844
+"407","Polk County IA",19153,"Vaginal",1,4625,-93.5003454,41.6278423
+"408","Polk County IA",19153,"Cesarean",2,2145,-93.5003454,41.6278423
+"409","Scott County IA",19163,"Vaginal",1,1633,-90.6393702,41.6393199
+"410","Scott County IA",19163,"Cesarean",2,637,-90.6393702,41.6393199
+"411","Woodbury County IA",19193,"Vaginal",1,1021,-95.9832577,42.3166158
+"412","Woodbury County IA",19193,"Cesarean",2,520,-95.9832577,42.3166158
+"413","Unidentified Counties IA",19999,"Vaginal",1,15250,-93.097702,41.8780025
+"414","Unidentified Counties IA",19999,"Cesarean",2,7101,-93.097702,41.8780025
+"415","Johnson County KS",20091,"Vaginal",1,5259,-94.8520636,38.845412
+"416","Johnson County KS",20091,"Cesarean",2,2069,-94.8520636,38.845412
+"417","Sedgwick County KS",20173,"Vaginal",1,5241,-97.5247243,37.6537367
+"418","Sedgwick County KS",20173,"Cesarean",2,2255,-97.5247243,37.6537367
+"419","Shawnee County KS",20177,"Vaginal",1,1598,-95.8142885,39.0928449
+"420","Shawnee County KS",20177,"Cesarean",2,758,-95.8142885,39.0928449
+"421","Wyandotte County KS",20209,"Vaginal",1,2027,-94.7691586,39.0986811
+"422","Wyandotte County KS",20209,"Cesarean",2,654,-94.7691586,39.0986811
+"423","Unidentified Counties KS",20999,"Vaginal",1,12968,-98.4842465,39.011902
+"424","Unidentified Counties KS",20999,"Cesarean",2,6009,-98.4842465,39.011902
+"425","Fayette County KY",21067,"Vaginal",1,2637,-84.4802606,38.0606478
+"426","Fayette County KY",21067,"Cesarean",2,1434,-84.4802606,38.0606478
+"427","Jefferson County KY",21111,"Vaginal",1,6479,-85.643487,38.1938097
+"428","Jefferson County KY",21111,"Cesarean",2,3478,-85.643487,38.1938097
+"429","Kenton County KY",21117,"Vaginal",1,1456,-84.564147,38.9863872
+"430","Kenton County KY",21117,"Cesarean",2,828,-84.564147,38.9863872
+"431","Unidentified Counties KY",21999,"Vaginal",1,24724,-84.2700179,37.8393332
+"432","Unidentified Counties KY",21999,"Cesarean",2,14615,-84.2700179,37.8393332
+"433","Unidentified Counties KY",21999,"Not Stated",9,33,-84.2700179,37.8393332
+"434","Caddo Parish LA",22017,"Vaginal",1,2365,-93.8655303,32.6136798
+"435","Caddo Parish LA",22017,"Cesarean",2,1470,-93.8655303,32.6136798
+"436","Calcasieu Parish LA",22019,"Vaginal",1,1695,-93.3388917,30.2089286
+"437","Calcasieu Parish LA",22019,"Cesarean",2,1033,-93.3388917,30.2089286
+"438","East Baton Rouge Parish LA",22033,"Vaginal",1,3958,-91.09694,30.5693593
+"439","East Baton Rouge Parish LA",22033,"Cesarean",2,2183,-91.09694,30.5693593
+"440","Jefferson Parish LA",22051,"Vaginal",1,3389,-90.1120696,29.6498691
+"441","Jefferson Parish LA",22051,"Cesarean",2,2207,-90.1120696,29.6498691
+"442","Lafayette Parish LA",22055,"Vaginal",1,2194,-92.027319,30.1895142
+"443","Lafayette Parish LA",22055,"Cesarean",2,1303,-92.027319,30.1895142
+"444","Orleans Parish LA",22071,"Vaginal",1,3176,-89.8879304,30.1126874
+"445","Orleans Parish LA",22071,"Cesarean",2,1691,-89.8879304,30.1126874
+"446","Ouachita Parish LA",22073,"Vaginal",1,1496,-92.2236667,32.4271852
+"447","Ouachita Parish LA",22073,"Cesarean",2,762,-92.2236667,32.4271852
+"448","Rapides Parish LA",22079,"Vaginal",1,943,-92.539603,31.1461104
+"449","Rapides Parish LA",22079,"Cesarean",2,851,-92.539603,31.1461104
+"450","St. Tammany Parish LA",22103,"Vaginal",1,1634,-89.9253233,30.4357418
+"451","St. Tammany Parish LA",22103,"Cesarean",2,1220,-89.9253233,30.4357418
+"452","Tangipahoa Parish LA",22105,"Vaginal",1,1162,-90.3748354,30.6194521
+"453","Tangipahoa Parish LA",22105,"Cesarean",2,774,-90.3748354,30.6194521
+"454","Terrebonne Parish LA",22109,"Vaginal",1,1089,-90.7532809,29.2299682
+"455","Terrebonne Parish LA",22109,"Cesarean",2,616,-90.7532809,29.2299682
+"458","Androscoggin County ME",23001,"Vaginal",1,875,-70.1707037,44.1912416
+"459","Androscoggin County ME",23001,"Cesarean",2,367,-70.1707037,44.1912416
+"460","Cumberland County ME",23005,"Vaginal",1,2059,-70.3870587,43.8132979
+"461","Cumberland County ME",23005,"Cesarean",2,809,-70.3870587,43.8132979
+"462","Kennebec County ME",23011,"Vaginal",1,754,-69.7038278,44.4499153
+"463","Kennebec County ME",23011,"Cesarean",2,340,-69.7038278,44.4499153
+"464","Penobscot County ME",23019,"Vaginal",1,1042,-68.5806727,45.3230777
+"465","Penobscot County ME",23019,"Cesarean",2,433,-68.5806727,45.3230777
+"466","York County ME",23031,"Vaginal",1,1264,-70.6702521,43.4132697
+"467","York County ME",23031,"Cesarean",2,557,-70.6702521,43.4132697
+"471","Anne Arundel County MD",24003,"Vaginal",1,4423,-76.5488232,38.9530109
+"472","Anne Arundel County MD",24003,"Cesarean",2,2380,-76.5488232,38.9530109
+"473","Anne Arundel County MD",24003,"Not Stated",9,14,-76.5488232,38.9530109
+"474","Baltimore County MD",24005,"Vaginal",1,6116,-76.7336521,39.4647665
+"475","Baltimore County MD",24005,"Cesarean",2,3394,-76.7336521,39.4647665
+"476","Baltimore County MD",24005,"Not Stated",9,14,-76.7336521,39.4647665
+"477","Carroll County MD",24013,"Vaginal",1,1014,-77.0564464,39.5423418
+"478","Carroll County MD",24013,"Cesarean",2,541,-77.0564464,39.5423418
+"479","Charles County MD",24017,"Vaginal",1,1141,-77.1024902,38.5221781
+"480","Charles County MD",24017,"Cesarean",2,665,-77.1024902,38.5221781
+"481","Frederick County MD",24021,"Vaginal",1,1821,-77.4701972,39.3844507
+"482","Frederick County MD",24021,"Cesarean",2,895,-77.4701972,39.3844507
+"483","Harford County MD",24025,"Vaginal",1,1832,-76.3637285,39.5838964
+"484","Harford County MD",24025,"Cesarean",2,870,-76.3637285,39.5838964
+"485","Howard County MD",24027,"Vaginal",1,2210,-76.964306,39.2873463
+"486","Howard County MD",24027,"Cesarean",2,1165,-76.964306,39.2873463
+"487","Montgomery County MD",24031,"Vaginal",1,8260,-77.2405153,39.1547426
+"488","Montgomery County MD",24031,"Cesarean",2,4795,-77.2405153,39.1547426
+"489","Montgomery County MD",24031,"Not Stated",9,12,-77.2405153,39.1547426
+"490","Prince George's County MD",24033,"Vaginal",1,7315,-76.8720961,38.7849211
+"491","Prince George's County MD",24033,"Cesarean",2,4504,-76.8720961,38.7849211
+"492","Prince George's County MD",24033,"Not Stated",9,42,-76.8720961,38.7849211
+"493","Washington County MD",24043,"Vaginal",1,1106,-77.719993,39.641762
+"494","Washington County MD",24043,"Cesarean",2,562,-77.719993,39.641762
+"495","Washington County MD",24043,"Not Stated",9,36,-77.719993,39.641762
+"496","Baltimore city MD",24510,"Vaginal",1,5894,-76.6121893,39.2903848
+"497","Baltimore city MD",24510,"Cesarean",2,2913,-76.6121893,39.2903848
+"498","Baltimore city MD",24510,"Not Stated",9,29,-76.6121893,39.2903848
+"501","Barnstable County MA",25001,"Vaginal",1,989,-70.3209113,41.6990958
+"502","Barnstable County MA",25001,"Cesarean",2,511,-70.3209113,41.6990958
+"503","Berkshire County MA",25003,"Vaginal",1,773,-73.1821623,42.311782
+"504","Berkshire County MA",25003,"Cesarean",2,278,-73.1821623,42.311782
+"505","Bristol County MA",25005,"Vaginal",1,3672,-71.1448516,41.7938406
+"506","Bristol County MA",25005,"Cesarean",2,1991,-71.1448516,41.7938406
+"507","Bristol County MA",25005,"Not Stated",9,10,-71.1448516,41.7938406
+"508","Essex County MA",25009,"Vaginal",1,5552,-70.9071236,42.7051144
+"509","Essex County MA",25009,"Cesarean",2,2887,-70.9071236,42.7051144
+"510","Essex County MA",25009,"Not Stated",9,14,-70.9071236,42.7051144
+"511","Hampden County MA",25013,"Vaginal",1,3641,-72.6624209,42.1172314
+"512","Hampden County MA",25013,"Cesarean",2,1641,-72.6624209,42.1172314
+"513","Hampshire County MA",25015,"Vaginal",1,781,-72.6624209,42.3471357
+"514","Hampshire County MA",25015,"Cesarean",2,324,-72.6624209,42.3471357
+"515","Middlesex County MA",25017,"Vaginal",1,12118,-71.2874209,42.467206
+"516","Middlesex County MA",25017,"Cesarean",2,5356,-71.2874209,42.467206
+"517","Middlesex County MA",25017,"Not Stated",9,46,-71.2874209,42.467206
+"518","Norfolk County MA",25021,"Vaginal",1,4794,-71.1448516,42.17668
+"519","Norfolk County MA",25021,"Cesarean",2,2377,-71.1448516,42.17668
+"520","Norfolk County MA",25021,"Not Stated",9,42,-71.1448516,42.17668
+"521","Plymouth County MA",25023,"Vaginal",1,3246,-70.7168469,41.9120406
+"522","Plymouth County MA",25023,"Cesarean",2,1819,-70.7168469,41.9120406
+"523","Plymouth County MA",25023,"Not Stated",9,15,-70.7168469,41.9120406
+"524","Suffolk County MA",25025,"Vaginal",1,6792,-71.0504229,42.3522866
+"525","Suffolk County MA",25025,"Cesarean",2,2585,-71.0504229,42.3522866
+"526","Suffolk County MA",25025,"Not Stated",9,63,-71.0504229,42.3522866
+"527","Worcester County MA",25027,"Vaginal",1,6010,-71.8571331,42.4096528
+"528","Worcester County MA",25027,"Cesarean",2,2530,-71.8571331,42.4096528
+"529","Worcester County MA",25027,"Not Stated",9,32,-71.8571331,42.4096528
+"530","Unidentified Counties MA",25999,"Vaginal",1,623,-71.3824374,42.4072107
+"531","Unidentified Counties MA",25999,"Cesarean",2,248,-71.3824374,42.4072107
+"532","Unidentified Counties MA",25999,"Not Stated",9,10,-71.3824374,42.4072107
+"533","Allegan County MI",26005,"Vaginal",1,872,-85.9084434,42.5938744
+"534","Allegan County MI",26005,"Cesarean",2,427,-85.9084434,42.5938744
+"535","Bay County MI",26017,"Vaginal",1,721,-84.0167423,43.7109732
+"536","Bay County MI",26017,"Cesarean",2,321,-84.0167423,43.7109732
+"537","Berrien County MI",26021,"Vaginal",1,1277,-86.7416374,42.0320742
+"538","Berrien County MI",26021,"Cesarean",2,588,-86.7416374,42.0320742
+"539","Calhoun County MI",26025,"Vaginal",1,1189,-85.023346,42.2073905
+"540","Calhoun County MI",26025,"Cesarean",2,507,-85.023346,42.2073905
+"541","Eaton County MI",26045,"Vaginal",1,745,-84.7733325,42.5886496
+"542","Eaton County MI",26045,"Cesarean",2,379,-84.7733325,42.5886496
+"543","Genesee County MI",26049,"Vaginal",1,3039,-83.6773928,43.0777289
+"544","Genesee County MI",26049,"Cesarean",2,1981,-83.6773928,43.0777289
+"545","Ingham County MI",26065,"Vaginal",1,2241,-84.3542049,42.6468943
+"546","Ingham County MI",26065,"Cesarean",2,1030,-84.3542049,42.6468943
+"547","Jackson County MI",26075,"Vaginal",1,1247,-84.3542049,42.1764362
+"548","Jackson County MI",26075,"Cesarean",2,476,-84.3542049,42.1764362
+"549","Kalamazoo County MI",26077,"Vaginal",1,2136,-85.520024,42.2278346
+"550","Kalamazoo County MI",26077,"Cesarean",2,1030,-85.520024,42.2278346
+"551","Kent County MI",26081,"Vaginal",1,6088,-85.520024,43.0097027
+"552","Kent County MI",26081,"Cesarean",2,2763,-85.520024,43.0097027
+"553","Livingston County MI",26093,"Vaginal",1,1123,-83.8473015,42.6207951
+"554","Livingston County MI",26093,"Cesarean",2,551,-83.8473015,42.6207951
+"555","Macomb County MI",26099,"Vaginal",1,5906,-82.820974,42.7168759
+"556","Macomb County MI",26099,"Cesarean",2,3471,-82.820974,42.7168759
+"557","Monroe County MI",26115,"Vaginal",1,996,-83.5070203,41.9738893
+"558","Monroe County MI",26115,"Cesarean",2,515,-83.5070203,41.9738893
+"559","Muskegon County MI",26121,"Vaginal",1,1387,-86.1261056,43.294941
+"560","Muskegon County MI",26121,"Cesarean",2,741,-86.1261056,43.294941
+"561","Oakland County MI",26125,"Vaginal",1,9161,-83.336188,42.5921924
+"562","Oakland County MI",26125,"Cesarean",2,4325,-83.336188,42.5921924
+"563","Ottawa County MI",26139,"Vaginal",1,2293,-86.0937312,42.953023
+"564","Ottawa County MI",26139,"Cesarean",2,1070,-86.0937312,42.953023
+"565","Saginaw County MI",26145,"Vaginal",1,1530,-84.0167423,43.4044253
+"566","Saginaw County MI",26145,"Cesarean",2,748,-84.0167423,43.4044253
+"567","St. Clair County MI",26147,"Vaginal",1,1030,-82.6483442,43.016179
+"568","St. Clair County MI",26147,"Cesarean",2,517,-82.6483442,43.016179
+"569","Washtenaw County MI",26161,"Vaginal",1,2583,-83.8473015,42.3076493
+"570","Washtenaw County MI",26161,"Cesarean",2,1070,-83.8473015,42.3076493
+"571","Wayne County MI",26163,"Vaginal",1,16358,-83.336188,42.2790746
+"572","Wayne County MI",26163,"Cesarean",2,7243,-83.336188,42.2790746
+"573","Unidentified Counties MI",26999,"Vaginal",1,14589,-85.6023643,44.3148443
+"574","Unidentified Counties MI",26999,"Cesarean",2,7198,-85.6023643,44.3148443
+"575","Anoka County MN",27003,"Vaginal",1,3084,-93.2197005,45.3292832
+"576","Anoka County MN",27003,"Cesarean",2,1131,-93.2197005,45.3292832
+"577","Dakota County MN",27037,"Vaginal",1,3696,-93.1779659,44.731554
+"578","Dakota County MN",27037,"Cesarean",2,1448,-93.1779659,44.731554
+"579","Hennepin County MN",27053,"Vaginal",1,12356,-93.5094574,45.0208911
+"580","Hennepin County MN",27053,"Cesarean",2,4227,-93.5094574,45.0208911
+"581","Hennepin County MN",27053,"Not Stated",9,10,-93.5094574,45.0208911
+"582","Olmsted County MN",27109,"Vaginal",1,1623,-92.3813621,43.995179
+"583","Olmsted County MN",27109,"Cesarean",2,541,-92.3813621,43.995179
+"584","Ramsey County MN",27123,"Vaginal",1,5979,-93.0615978,44.9963986
+"585","Ramsey County MN",27123,"Cesarean",2,1851,-93.0615978,44.9963986
+"586","St. Louis County MN",27137,"Vaginal",1,1453,-92.3623921,47.7395106
+"587","St. Louis County MN",27137,"Cesarean",2,568,-92.3623921,47.7395106
+"588","Stearns County MN",27145,"Vaginal",1,1483,-94.5865603,45.5844792
+"589","Stearns County MN",27145,"Cesarean",2,525,-94.5865603,45.5844792
+"590","Washington County MN",27163,"Vaginal",1,2055,-92.8577105,44.8896877
+"591","Washington County MN",27163,"Cesarean",2,793,-92.8577105,44.8896877
+"592","Unidentified Counties MN",27999,"Vaginal",1,18829,-94.6858998,46.729553
+"593","Unidentified Counties MN",27999,"Cesarean",2,7485,-94.6858998,46.729553
+"594","DeSoto County MS",28033,"Vaginal",1,1268,-89.9626799,34.9065453
+"595","DeSoto County MS",28033,"Cesarean",2,772,-89.9626799,34.9065453
+"596","Harrison County MS",28047,"Vaginal",1,1860,-89.0179332,30.432087
+"597","Harrison County MS",28047,"Cesarean",2,871,-89.0179332,30.432087
+"598","Hinds County MS",28049,"Vaginal",1,1882,-90.3748354,32.2648353
+"599","Hinds County MS",28049,"Cesarean",2,1445,-90.3748354,32.2648353
+"600","Jackson County MS",28059,"Vaginal",1,1047,-88.556531,30.4278212
+"601","Jackson County MS",28059,"Cesarean",2,567,-88.556531,30.4278212
+"602","Rankin County MS",28121,"Vaginal",1,1017,-89.9253233,32.2653668
+"603","Rankin County MS",28121,"Cesarean",2,896,-89.9253233,32.2653668
+"606","Boone County MO",29019,"Vaginal",1,1420,-92.3813621,39.0468547
+"607","Boone County MO",29019,"Cesarean",2,746,-92.3813621,39.0468547
+"608","Clay County MO",29047,"Vaginal",1,2127,-94.479976,39.3176186
+"609","Clay County MO",29047,"Cesarean",2,905,-94.479976,39.3176186
+"610","Greene County MO",29077,"Vaginal",1,2472,-93.5003454,37.3311215
+"611","Greene County MO",29077,"Cesarean",2,994,-93.5003454,37.3311215
+"612","Greene County MO",29077,"Not Stated",9,40,-93.5003454,37.3311215
+"613","Jackson County MO",29095,"Vaginal",1,6841,-94.315422,38.9914998
+"614","Jackson County MO",29095,"Cesarean",2,2635,-94.315422,38.9914998
+"615","Jackson County MO",29095,"Not Stated",9,15,-94.315422,38.9914998
+"616","Jasper County MO",29097,"Vaginal",1,1170,-94.356513,37.1745565
+"617","Jasper County MO",29097,"Cesarean",2,517,-94.356513,37.1745565
+"618","Jefferson County MO",29099,"Vaginal",1,1650,-90.5257823,38.2310301
+"619","Jefferson County MO",29099,"Cesarean",2,984,-90.5257823,38.2310301
+"620","St. Charles County MO",29183,"Vaginal",1,3045,-90.8294002,38.7338885
+"621","St. Charles County MO",29183,"Cesarean",2,1488,-90.8294002,38.7338885
+"622","St. Charles County MO",29183,"Not Stated",9,16,-90.8294002,38.7338885
+"623","St. Louis County MO",29189,"Vaginal",1,7523,-90.4125181,38.6103023
+"624","St. Louis County MO",29189,"Cesarean",2,3941,-90.4125181,38.6103023
+"625","St. Louis County MO",29189,"Not Stated",9,60,-90.4125181,38.6103023
+"626","St. Louis city MO",29510,"Vaginal",1,3228,-90.1994042,38.6270025
+"627","St. Louis city MO",29510,"Cesarean",2,1466,-90.1994042,38.6270025
+"628","Unidentified Counties MO",29999,"Vaginal",1,22196,-91.8318334,37.9642529
+"629","Unidentified Counties MO",29999,"Cesarean",2,9655,-91.8318334,37.9642529
+"630","Unidentified Counties MO",29999,"Not Stated",9,140,-91.8318334,37.9642529
+"631","Yellowstone County MT",30111,"Vaginal",1,1386,-108.4343805,45.7856577
+"632","Yellowstone County MT",30111,"Cesarean",2,548,-108.4343805,45.7856577
+"635","Douglas County NE",31055,"Vaginal",1,5921,-96.195132,41.3148116
+"636","Douglas County NE",31055,"Cesarean",2,2450,-96.195132,41.3148116
+"637","Lancaster County NE",31109,"Vaginal",1,2800,-96.663812,40.8471492
+"638","Lancaster County NE",31109,"Cesarean",2,1231,-96.663812,40.8471492
+"639","Sarpy County NE",31153,"Vaginal",1,1829,-96.195132,41.0744042
+"640","Sarpy County NE",31153,"Cesarean",2,710,-96.195132,41.0744042
+"643","Clark County NV",32003,"Vaginal",1,16480,-115.094045,36.0795613
+"644","Clark County NV",32003,"Cesarean",2,9557,-115.094045,36.0795613
+"645","Washoe County NV",32031,"Vaginal",1,3710,-119.6035495,40.5608387
+"646","Washoe County NV",32031,"Cesarean",2,1620,-119.6035495,40.5608387
+"647","Unidentified Counties NV",32999,"Vaginal",1,2606,-116.419389,38.8026097
+"648","Unidentified Counties NV",32999,"Cesarean",2,1057,-116.419389,38.8026097
+"649","Hillsborough County NH",33011,"Vaginal",1,2941,-71.6673352,42.8334794
+"650","Hillsborough County NH",33011,"Cesarean",2,1305,-71.6673352,42.8334794
+"651","Merrimack County NH",33013,"Vaginal",1,923,-71.6673352,43.2844846
+"652","Merrimack County NH",33013,"Cesarean",2,417,-71.6673352,43.2844846
+"653","Rockingham County NH",33015,"Vaginal",1,1752,-71.0497768,42.9931261
+"654","Rockingham County NH",33015,"Cesarean",2,852,-71.0497768,42.9931261
+"655","Strafford County NH",33017,"Vaginal",1,912,-71.0236044,43.238329
+"656","Strafford County NH",33017,"Cesarean",2,365,-71.0236044,43.238329
+"657","Unidentified Counties NH",33999,"Vaginal",1,2131,-71.5723953,43.1938516
+"658","Unidentified Counties NH",33999,"Cesarean",2,792,-71.5723953,43.1938516
+"659","Atlantic County NJ",34001,"Vaginal",1,1882,-74.6868815,39.5333379
+"660","Atlantic County NJ",34001,"Cesarean",2,1269,-74.6868815,39.5333379
+"661","Atlantic County NJ",34001,"Not Stated",9,22,-74.6868815,39.5333379
+"662","Bergen County NJ",34003,"Vaginal",1,5323,-74.07701,40.9262762
+"663","Bergen County NJ",34003,"Cesarean",2,3843,-74.07701,40.9262762
+"664","Bergen County NJ",34003,"Not Stated",9,83,-74.07701,40.9262762
+"665","Burlington County NJ",34005,"Vaginal",1,2641,-74.6868815,39.8558488
+"666","Burlington County NJ",34005,"Cesarean",2,1766,-74.6868815,39.8558488
+"667","Burlington County NJ",34005,"Not Stated",9,75,-74.6868815,39.8558488
+"668","Camden County NJ",34007,"Vaginal",1,4133,-75.0143824,39.8592439
+"669","Camden County NJ",34007,"Cesarean",2,2162,-75.0143824,39.8592439
+"670","Camden County NJ",34007,"Not Stated",9,48,-75.0143824,39.8592439
+"671","Cape May County NJ",34009,"Vaginal",1,484,-74.8273184,39.105884
+"672","Cape May County NJ",34009,"Cesarean",2,343,-74.8273184,39.105884
+"673","Cape May County NJ",34009,"Not Stated",9,14,-74.8273184,39.105884
+"674","Cumberland County NJ",34011,"Vaginal",1,1214,-75.0611147,39.2587106
+"675","Cumberland County NJ",34011,"Cesarean",2,725,-75.0611147,39.2587106
+"676","Essex County NJ",34013,"Vaginal",1,6277,-74.2648829,40.7947466
+"677","Essex County NJ",34013,"Cesarean",2,3921,-74.2648829,40.7947466
+"678","Essex County NJ",34013,"Not Stated",9,62,-74.2648829,40.7947466
+"679","Gloucester County NJ",34015,"Vaginal",1,1819,-75.1078332,39.7103023
+"680","Gloucester County NJ",34015,"Cesarean",2,1157,-75.1078332,39.7103023
+"681","Hudson County NJ",34017,"Vaginal",1,5783,-74.0535126,40.7453199
+"682","Hudson County NJ",34017,"Cesarean",2,4362,-74.0535126,40.7453199
+"683","Hudson County NJ",34017,"Not Stated",9,61,-74.0535126,40.7453199
+"684","Hunterdon County NJ",34019,"Vaginal",1,561,-74.9208772,40.5669515
+"685","Hunterdon County NJ",34019,"Cesarean",2,312,-74.9208772,40.5669515
+"686","Mercer County NJ",34021,"Vaginal",1,2676,-74.7337069,40.3028533
+"687","Mercer County NJ",34021,"Cesarean",2,1491,-74.7337069,40.3028533
+"688","Mercer County NJ",34021,"Not Stated",9,17,-74.7337069,40.3028533
+"689","Middlesex County NJ",34023,"Vaginal",1,5655,-74.3587473,40.4111363
+"690","Middlesex County NJ",34023,"Cesarean",2,3572,-74.3587473,40.4111363
+"691","Middlesex County NJ",34023,"Not Stated",9,69,-74.3587473,40.4111363
+"692","Monmouth County NJ",34025,"Vaginal",1,3724,-74.123996,40.2589455
+"693","Monmouth County NJ",34025,"Cesarean",2,2183,-74.123996,40.2589455
+"694","Monmouth County NJ",34025,"Not Stated",9,127,-74.123996,40.2589455
+"695","Morris County NJ",34027,"Vaginal",1,2710,-74.5463282,40.8336038
+"696","Morris County NJ",34027,"Cesarean",2,1825,-74.5463282,40.8336038
+"697","Morris County NJ",34027,"Not Stated",9,27,-74.5463282,40.8336038
+"698","Ocean County NJ",34029,"Vaginal",1,5974,-74.3118212,39.9652553
+"699","Ocean County NJ",34029,"Cesarean",2,1988,-74.3118212,39.9652553
+"700","Ocean County NJ",34029,"Not Stated",9,47,-74.3118212,39.9652553
+"701","Passaic County NJ",34031,"Vaginal",1,3770,-74.3587473,41.1231647
+"702","Passaic County NJ",34031,"Cesarean",2,3128,-74.3587473,41.1231647
+"703","Passaic County NJ",34031,"Not Stated",9,36,-74.3587473,41.1231647
+"704","Somerset County NJ",34035,"Vaginal",1,2016,-74.6400432,40.5292099
+"705","Somerset County NJ",34035,"Cesarean",2,1312,-74.6400432,40.5292099
+"706","Somerset County NJ",34035,"Not Stated",9,19,-74.6400432,40.5292099
+"707","Sussex County NJ",34037,"Vaginal",1,754,-74.6868815,41.1288481
+"708","Sussex County NJ",34037,"Cesarean",2,499,-74.6868815,41.1288481
+"709","Union County NJ",34039,"Vaginal",1,4180,-74.2883536,40.6595001
+"710","Union County NJ",34039,"Cesarean",2,2614,-74.2883536,40.6595001
+"711","Union County NJ",34039,"Not Stated",9,75,-74.2883536,40.6595001
+"712","Warren County NJ",34041,"Vaginal",1,623,-74.9208772,40.8841854
+"713","Warren County NJ",34041,"Cesarean",2,393,-74.9208772,40.8841854
+"714","Unidentified Counties NJ",34999,"Vaginal",1,465,-74.4056612,40.0583238
+"715","Unidentified Counties NJ",34999,"Cesarean",2,233,-74.4056612,40.0583238
+"716","Bernalillo County NM",35001,"Vaginal",1,6221,-106.6291304,35.0177854
+"717","Bernalillo County NM",35001,"Cesarean",2,1894,-106.6291304,35.0177854
+"718","Dona Ana County NM",35013,"Vaginal",1,2098,-106.7234639,32.485767
+"719","Dona Ana County NM",35013,"Cesarean",2,842,-106.7234639,32.485767
+"720","San Juan County NM",35045,"Vaginal",1,1397,-108.2377519,36.3882439
+"721","San Juan County NM",35045,"Cesarean",2,508,-108.2377519,36.3882439
+"722","Santa Fe County NM",35049,"Vaginal",1,1072,-105.9699878,35.3653705
+"723","Santa Fe County NM",35049,"Cesarean",2,238,-105.9699878,35.3653705
+"724","Unidentified Counties NM",35999,"Vaginal",1,9171,-105.8700901,34.5199402
+"725","Unidentified Counties NM",35999,"Cesarean",2,2913,-105.8700901,34.5199402
+"726","Albany County NY",36001,"Vaginal",1,2056,-73.9359821,42.5756797
+"727","Albany County NY",36001,"Cesarean",2,1029,-73.9359821,42.5756797
+"728","Bronx County NY",36005,"Vaginal",1,14331,-73.8654295,40.8370495
+"729","Bronx County NY",36005,"Cesarean",2,7079,-73.8654295,40.8370495
+"730","Broome County NY",36007,"Vaginal",1,1303,-75.8533954,42.1791865
+"731","Broome County NY",36007,"Cesarean",2,763,-75.8533954,42.1791865
+"732","Chautauqua County NY",36013,"Vaginal",1,849,-79.560344,42.2312829
+"733","Chautauqua County NY",36013,"Cesarean",2,478,-79.560344,42.2312829
+"734","Chautauqua County NY",36013,"Not Stated",9,29,-79.560344,42.2312829
+"735","Dutchess County NY",36027,"Vaginal",1,1614,-73.7477857,41.7784372
+"736","Dutchess County NY",36027,"Cesarean",2,996,-73.7477857,41.7784372
+"737","Erie County NY",36029,"Vaginal",1,6437,-78.8661589,42.9023958
+"738","Erie County NY",36029,"Cesarean",2,3441,-78.8661589,42.9023958
+"739","Erie County NY",36029,"Not Stated",9,13,-78.8661589,42.9023958
+"740","Jefferson County NY",36045,"Vaginal",1,1694,-75.9927652,44.0607421
+"741","Jefferson County NY",36045,"Cesarean",2,511,-75.9927652,44.0607421
+"742","Jefferson County NY",36045,"Not Stated",9,16,-75.9927652,44.0607421
+"743","Kings County NY",36047,"Vaginal",1,28896,-73.9441579,40.6781784
+"744","Kings County NY",36047,"Cesarean",2,12341,-73.9441579,40.6781784
+"745","Kings County NY",36047,"Not Stated",9,16,-73.9441579,40.6781784
+"746","Monroe County NY",36055,"Vaginal",1,5815,-77.7452081,43.2841246
+"747","Monroe County NY",36055,"Cesarean",2,2551,-77.7452081,43.2841246
+"748","Nassau County NY",36059,"Vaginal",1,8568,-73.5594128,40.6546145
+"749","Nassau County NY",36059,"Cesarean",2,5306,-73.5594128,40.6546145
+"750","New York County NY",36061,"Vaginal",1,12206,-73.9712488,40.7830603
+"751","New York County NY",36061,"Cesarean",2,6350,-73.9712488,40.7830603
+"752","New York County NY",36061,"Not Stated",9,12,-73.9712488,40.7830603
+"753","Niagara County NY",36063,"Vaginal",1,1233,-78.7476208,43.3119496
+"754","Niagara County NY",36063,"Cesarean",2,959,-78.7476208,43.3119496
+"755","Oneida County NY",36065,"Vaginal",1,1678,-75.4344727,43.2371798
+"756","Oneida County NY",36065,"Cesarean",2,946,-75.4344727,43.2371798
+"757","Onondaga County NY",36067,"Vaginal",1,3560,-76.1783739,43.026819
+"758","Onondaga County NY",36067,"Cesarean",2,1685,-76.1783739,43.026819
+"759","Ontario County NY",36069,"Vaginal",1,741,-77.2864879,42.8509838
+"760","Ontario County NY",36069,"Cesarean",2,283,-77.2864879,42.8509838
+"761","Orange County NY",36071,"Vaginal",1,3405,-74.3118212,41.3911653
+"762","Orange County NY",36071,"Cesarean",2,1487,-74.3118212,41.3911653
+"763","Orange County NY",36071,"Not Stated",9,59,-74.3118212,41.3911653
+"764","Oswego County NY",36075,"Vaginal",1,904,-76.1783739,43.482533
+"765","Oswego County NY",36075,"Cesarean",2,422,-76.1783739,43.482533
+"766","Oswego County NY",36075,"Not Stated",9,11,-76.1783739,43.482533
+"767","Queens County NY",36081,"Vaginal",1,19486,-73.7948516,40.7282239
+"768","Queens County NY",36081,"Cesarean",2,10670,-73.7948516,40.7282239
+"769","Rensselaer County NY",36083,"Vaginal",1,1196,-73.5594128,42.673664
+"770","Rensselaer County NY",36083,"Cesarean",2,566,-73.5594128,42.673664
+"771","Richmond County NY",36085,"Vaginal",1,3362,-74.1502007,40.5795317
+"772","Richmond County NY",36085,"Cesarean",2,2014,-74.1502007,40.5795317
+"773","Rockland County NY",36087,"Vaginal",1,3667,-73.9830029,41.1489458
+"774","Rockland County NY",36087,"Cesarean",2,1261,-73.9830029,41.1489458
+"775","Rockland County NY",36087,"Not Stated",9,167,-73.9830029,41.1489458
+"776","St. Lawrence County NY",36089,"Vaginal",1,655,-74.930206,44.4473142
+"777","St. Lawrence County NY",36089,"Cesarean",2,495,-74.930206,44.4473142
+"778","St. Lawrence County NY",36089,"Not Stated",9,64,-74.930206,44.4473142
+"779","Saratoga County NY",36091,"Vaginal",1,1489,-73.9359821,43.0324245
+"780","Saratoga County NY",36091,"Cesarean",2,771,-73.9359821,43.0324245
+"781","Schenectady County NY",36093,"Vaginal",1,1206,-73.9830029,42.8493445
+"782","Schenectady County NY",36093,"Cesarean",2,514,-73.9830029,42.8493445
+"783","Suffolk County NY",36103,"Vaginal",1,8629,-72.6151169,40.9848784
+"784","Suffolk County NY",36103,"Cesarean",2,6919,-72.6151169,40.9848784
+"785","Ulster County NY",36111,"Vaginal",1,1014,-74.3118212,41.8586493
+"786","Ulster County NY",36111,"Cesarean",2,562,-74.3118212,41.8586493
+"787","Westchester County NY",36119,"Vaginal",1,6255,-73.7948516,41.1220194
+"788","Westchester County NY",36119,"Cesarean",2,4353,-73.7948516,41.1220194
+"789","Unidentified Counties NY",36999,"Vaginal",1,12926,-74.0059413,40.7127837
+"790","Unidentified Counties NY",36999,"Cesarean",2,6365,-74.0059413,40.7127837
+"791","Unidentified Counties NY",36999,"Not Stated",9,256,-74.0059413,40.7127837
+"792","Alamance County NC",37001,"Vaginal",1,1252,-79.4253776,36.0117388
+"793","Alamance County NC",37001,"Cesarean",2,533,-79.4253776,36.0117388
+"794","Buncombe County NC",37021,"Vaginal",1,1888,-82.4752757,35.5931377
+"795","Buncombe County NC",37021,"Cesarean",2,777,-82.4752757,35.5931377
+"796","Cabarrus County NC",37025,"Vaginal",1,1564,-80.5882803,35.4168123
+"797","Cabarrus County NC",37025,"Cesarean",2,748,-80.5882803,35.4168123
+"798","Catawba County NC",37035,"Vaginal",1,1186,-81.2518833,35.6840748
+"799","Catawba County NC",37035,"Cesarean",2,486,-81.2518833,35.6840748
+"800","Cumberland County NC",37051,"Vaginal",1,4108,-78.7476208,34.9542604
+"801","Cumberland County NC",37051,"Cesarean",2,1580,-78.7476208,34.9542604
+"802","Davidson County NC",37057,"Vaginal",1,1122,-80.1875065,35.7748479
+"803","Davidson County NC",37057,"Cesarean",2,603,-80.1875065,35.7748479
+"804","Durham County NC",37063,"Vaginal",1,3009,-78.9031279,36.0221805
+"805","Durham County NC",37063,"Cesarean",2,1184,-78.9031279,36.0221805
+"806","Forsyth County NC",37067,"Vaginal",1,3227,-80.1875065,36.1200003
+"807","Forsyth County NC",37067,"Cesarean",2,1296,-80.1875065,36.1200003
+"808","Gaston County NC",37071,"Vaginal",1,1625,-81.2078164,35.2895651
+"809","Gaston County NC",37071,"Cesarean",2,826,-81.2078164,35.2895651
+"810","Guilford County NC",37081,"Vaginal",1,4271,-79.8296743,36.0899873
+"811","Guilford County NC",37081,"Cesarean",2,1902,-79.8296743,36.0899873
+"812","Iredell County NC",37097,"Vaginal",1,1148,-80.8986502,35.8310501
+"813","Iredell County NC",37097,"Cesarean",2,604,-80.8986502,35.8310501
+"814","Johnston County NC",37101,"Vaginal",1,1513,-78.3842227,35.4403514
+"815","Johnston County NC",37101,"Cesarean",2,652,-78.3842227,35.4403514
+"816","Mecklenburg County NC",37119,"Vaginal",1,9396,-80.8543847,35.2632655
+"817","Mecklenburg County NC",37119,"Cesarean",2,4435,-80.8543847,35.2632655
+"818","New Hanover County NC",37129,"Vaginal",1,1659,-77.8824596,34.2154913
+"819","New Hanover County NC",37129,"Cesarean",2,583,-77.8824596,34.2154913
+"820","Onslow County NC",37133,"Vaginal",1,3201,-77.4701972,34.6540094
+"821","Onslow County NC",37133,"Cesarean",2,1127,-77.4701972,34.6540094
+"822","Orange County NC",37135,"Vaginal",1,901,-79.1096901,36.0263022
+"823","Orange County NC",37135,"Cesarean",2,290,-79.1096901,36.0263022
+"824","Pitt County NC",37147,"Vaginal",1,1462,-77.4242972,35.5589221
+"825","Pitt County NC",37147,"Cesarean",2,649,-77.4242972,35.5589221
+"826","Randolph County NC",37151,"Vaginal",1,1101,-79.8296743,35.7449531
+"827","Randolph County NC",37151,"Cesarean",2,488,-79.8296743,35.7449531
+"828","Robeson County NC",37155,"Vaginal",1,1303,-79.1096901,34.6383858
+"829","Robeson County NC",37155,"Cesarean",2,630,-79.1096901,34.6383858
+"830","Rowan County NC",37159,"Vaginal",1,1070,-80.543845,35.6303455
+"831","Rowan County NC",37159,"Cesarean",2,449,-80.543845,35.6303455
+"832","Union County NC",37179,"Vaginal",1,1591,-80.543845,34.9338651
+"833","Union County NC",37179,"Cesarean",2,699,-80.543845,34.9338651
+"834","Wake County NC",37183,"Vaginal",1,8767,-78.5660852,35.8031909
+"835","Wake County NC",37183,"Cesarean",2,3670,-78.5660852,35.8031909
+"836","Wayne County NC",37191,"Vaginal",1,1156,-77.973865,35.3565499
+"837","Wayne County NC",37191,"Cesarean",2,549,-77.973865,35.3565499
+"838","Unidentified Counties NC",37999,"Vaginal",1,25345,-79.0192997,35.7595731
+"839","Unidentified Counties NC",37999,"Cesarean",2,11363,-79.0192997,35.7595731
+"840","Cass County ND",38017,"Vaginal",1,1801,-97.1215579,47.071168
+"841","Cass County ND",38017,"Cesarean",2,659,-97.1215579,47.071168
+"844","Allen County OH",39003,"Vaginal",1,879,-84.1435136,40.769946
+"845","Allen County OH",39003,"Cesarean",2,396,-84.1435136,40.769946
+"846","Ashtabula County OH",39007,"Vaginal",1,759,-80.7214417,41.9396982
+"847","Ashtabula County OH",39007,"Cesarean",2,328,-80.7214417,41.9396982
+"848","Butler County OH",39017,"Vaginal",1,2982,-84.5222189,39.440463
+"849","Butler County OH",39017,"Cesarean",2,1475,-84.5222189,39.440463
+"850","Clark County OH",39023,"Vaginal",1,977,-83.6773928,39.8912092
+"851","Clark County OH",39023,"Cesarean",2,580,-83.6773928,39.8912092
+"852","Clermont County OH",39025,"Vaginal",1,1501,-84.1499347,39.0500636
+"853","Clermont County OH",39025,"Cesarean",2,770,-84.1499347,39.0500636
+"854","Columbiana County OH",39029,"Vaginal",1,703,-80.7657804,40.7902581
+"855","Columbiana County OH",39029,"Cesarean",2,391,-80.7657804,40.7902581
+"856","Cuyahoga County OH",39035,"Vaginal",1,10659,-81.67582,41.433923
+"857","Cuyahoga County OH",39035,"Cesarean",2,4252,-81.67582,41.433923
+"858","Delaware County OH",39041,"Vaginal",1,1568,-83.0361376,40.3033098
+"859","Delaware County OH",39041,"Cesarean",2,626,-83.0361376,40.3033098
+"860","Fairfield County OH",39045,"Vaginal",1,1197,-82.6483442,39.830506
+"861","Fairfield County OH",39045,"Cesarean",2,526,-82.6483442,39.830506
+"862","Franklin County OH",39049,"Vaginal",1,13284,-82.9931607,40.0154745
+"863","Franklin County OH",39049,"Cesarean",2,5482,-82.9931607,40.0154745
+"864","Greene County OH",39057,"Vaginal",1,1199,-83.8897057,39.697399
+"865","Greene County OH",39057,"Cesarean",2,583,-83.8897057,39.697399
+"866","Hamilton County OH",39061,"Vaginal",1,7159,-84.564147,39.2355447
+"867","Hamilton County OH",39061,"Cesarean",2,3622,-84.564147,39.2355447
+"868","Lake County OH",39085,"Vaginal",1,1612,-81.2455855,41.7112668
+"869","Lake County OH",39085,"Cesarean",2,716,-81.2455855,41.7112668
+"870","Licking County OH",39089,"Vaginal",1,1357,-82.4752757,40.1460895
+"871","Licking County OH",39089,"Cesarean",2,544,-82.4752757,40.1460895
+"872","Lorain County OH",39093,"Vaginal",1,2350,-82.12784,41.4116881
+"873","Lorain County OH",39093,"Cesarean",2,956,-82.12784,41.4116881
+"874","Lucas County OH",39095,"Vaginal",1,3959,-83.3789389,41.6894388
+"875","Lucas County OH",39095,"Cesarean",2,1714,-83.3789389,41.6894388
+"876","Mahoning County OH",39099,"Vaginal",1,1499,-80.7214417,40.9871753
+"877","Mahoning County OH",39099,"Cesarean",2,911,-80.7214417,40.9871753
+"878","Medina County OH",39103,"Vaginal",1,1173,-81.9534815,41.080133
+"879","Medina County OH",39103,"Cesarean",2,545,-81.9534815,41.080133
+"880","Montgomery County OH",39113,"Vaginal",1,4501,-84.3542049,39.7620028
+"881","Montgomery County OH",39113,"Cesarean",2,2245,-84.3542049,39.7620028
+"882","Portage County OH",39133,"Vaginal",1,996,-81.2518833,41.1887572
+"883","Portage County OH",39133,"Cesarean",2,464,-81.2518833,41.1887572
+"884","Richland County OH",39139,"Vaginal",1,1008,-82.5185837,40.7566723
+"885","Richland County OH",39139,"Cesarean",2,423,-82.5185837,40.7566723
+"886","Stark County OH",39151,"Vaginal",1,2861,-81.2518833,40.8684676
+"887","Stark County OH",39151,"Cesarean",2,1361,-81.2518833,40.8684676
+"888","Summit County OH",39153,"Vaginal",1,4255,-81.5596427,41.0918991
+"889","Summit County OH",39153,"Cesarean",2,1828,-81.5596427,41.0918991
+"890","Trumbull County OH",39155,"Vaginal",1,1424,-80.7214417,41.3064984
+"891","Trumbull County OH",39155,"Cesarean",2,729,-80.7214417,41.3064984
+"892","Warren County OH",39165,"Vaginal",1,1623,-84.1857115,39.4241422
+"893","Warren County OH",39165,"Cesarean",2,739,-84.1857115,39.4241422
+"894","Wayne County OH",39169,"Vaginal",1,1141,-81.9534815,40.7588598
+"895","Wayne County OH",39169,"Cesarean",2,478,-81.9534815,40.7588598
+"896","Wood County OH",39173,"Vaginal",1,913,-83.6773928,41.3478458
+"897","Wood County OH",39173,"Cesarean",2,469,-83.6773928,41.3478458
+"898","Unidentified Counties OH",39999,"Vaginal",1,22214,-82.907123,40.4172871
+"899","Unidentified Counties OH",39999,"Cesarean",2,9977,-82.907123,40.4172871
+"900","Unidentified Counties OH",39999,"Not Stated",9,15,-82.907123,40.4172871
+"901","Cleveland County OK",40027,"Vaginal",1,1977,-97.3516558,35.254964
+"902","Cleveland County OK",40027,"Cesarean",2,1037,-97.3516558,35.254964
+"903","Comanche County OK",40031,"Vaginal",1,1429,-98.3964938,34.6612778
+"904","Comanche County OK",40031,"Cesarean",2,528,-98.3964938,34.6612778
+"905","Oklahoma County OK",40109,"Vaginal",1,8373,-97.3516558,35.6038323
+"906","Oklahoma County OK",40109,"Cesarean",2,4102,-97.3516558,35.6038323
+"907","Tulsa County OK",40143,"Vaginal",1,6298,-95.940971,36.1593471
+"908","Tulsa County OK",40143,"Cesarean",2,2966,-95.940971,36.1593471
+"911","Clackamas County OR",41005,"Vaginal",1,2872,-122.1188945,45.2023855
+"912","Clackamas County OR",41005,"Cesarean",2,1080,-122.1188945,45.2023855
+"913","Deschutes County OR",41017,"Vaginal",1,1260,-121.2616541,43.83251
+"914","Deschutes County OR",41017,"Cesarean",2,469,-121.2616541,43.83251
+"915","Douglas County OR",41019,"Vaginal",1,792,-123.2492364,43.1260694
+"916","Douglas County OR",41019,"Cesarean",2,272,-123.2492364,43.1260694
+"917","Jackson County OR",41029,"Vaginal",1,1603,-122.7646577,42.334535
+"918","Jackson County OR",41029,"Cesarean",2,717,-122.7646577,42.334535
+"919","Lane County OR",41039,"Vaginal",1,2424,-122.6618227,43.9610092
+"920","Lane County OR",41039,"Cesarean",2,1102,-122.6618227,43.9610092
+"921","Linn County OR",41043,"Vaginal",1,1034,-122.53401,44.4099768
+"922","Linn County OR",41043,"Cesarean",2,388,-122.53401,44.4099768
+"923","Marion County OR",41047,"Vaginal",1,3136,-122.5927411,44.8446393
+"924","Marion County OR",41047,"Cesarean",2,1185,-122.5927411,44.8446393
+"925","Multnomah County OR",41051,"Vaginal",1,6897,-122.5863212,45.5145659
+"926","Multnomah County OR",41051,"Cesarean",2,2602,-122.5863212,45.5145659
+"927","Washington County OR",41067,"Vaginal",1,5179,-123.1386021,45.5469616
+"928","Washington County OR",41067,"Cesarean",2,1976,-123.1386021,45.5469616
+"931","Allegheny County PA",42003,"Vaginal",1,9133,-80.0087746,40.4450813
+"932","Allegheny County PA",42003,"Cesarean",2,4119,-80.0087746,40.4450813
+"933","Allegheny County PA",42003,"Not Stated",9,68,-80.0087746,40.4450813
+"934","Beaver County PA",42007,"Vaginal",1,1099,-80.365865,40.6367812
+"935","Beaver County PA",42007,"Cesarean",2,604,-80.365865,40.6367812
+"936","Berks County PA",42011,"Vaginal",1,3462,-75.9927652,40.3451566
+"937","Berks County PA",42011,"Cesarean",2,1394,-75.9927652,40.3451566
+"938","Blair County PA",42013,"Vaginal",1,1008,-78.3842227,40.4531318
+"939","Blair County PA",42013,"Cesarean",2,383,-78.3842227,40.4531318
+"940","Bucks County PA",42017,"Vaginal",1,3636,-75.2479061,40.4107964
+"941","Bucks County PA",42017,"Cesarean",2,2176,-75.2479061,40.4107964
+"942","Butler County PA",42019,"Vaginal",1,1196,-79.8296743,40.9115243
+"943","Butler County PA",42019,"Cesarean",2,598,-79.8296743,40.9115243
+"944","Cambria County PA",42021,"Vaginal",1,977,-78.7476208,40.4894231
+"945","Cambria County PA",42021,"Cesarean",2,306,-78.7476208,40.4894231
+"946","Centre County PA",42027,"Vaginal",1,903,-77.8367282,40.8765649
+"947","Centre County PA",42027,"Cesarean",2,340,-77.8367282,40.8765649
+"948","Chester County PA",42029,"Vaginal",1,3705,-75.8069082,40.0010204
+"949","Chester County PA",42029,"Cesarean",2,1735,-75.8069082,40.0010204
+"950","Cumberland County PA",42041,"Vaginal",1,1795,-77.2405153,40.1299841
+"951","Cumberland County PA",42041,"Cesarean",2,791,-77.2405153,40.1299841
+"952","Dauphin County PA",42043,"Vaginal",1,2407,-76.7336521,40.2734277
+"953","Dauphin County PA",42043,"Cesarean",2,1054,-76.7336521,40.2734277
+"954","Delaware County PA",42045,"Vaginal",1,4335,-75.3878525,39.907793
+"955","Delaware County PA",42045,"Cesarean",2,2242,-75.3878525,39.907793
+"956","Erie County PA",42049,"Vaginal",1,2030,-80.1875065,42.0521954
+"957","Erie County PA",42049,"Cesarean",2,1146,-80.1875065,42.0521954
+"958","Fayette County PA",42051,"Vaginal",1,938,-79.6502105,39.9272324
+"959","Fayette County PA",42051,"Cesarean",2,490,-79.6502105,39.9272324
+"960","Franklin County PA",42055,"Vaginal",1,1328,-77.6536125,39.8923855
+"961","Franklin County PA",42055,"Cesarean",2,510,-77.6536125,39.8923855
+"962","Lackawanna County PA",42069,"Vaginal",1,1386,-75.5742467,41.4421199
+"963","Lackawanna County PA",42069,"Cesarean",2,821,-75.5742467,41.4421199
+"964","Lancaster County PA",42071,"Vaginal",1,5098,-76.1783739,40.0466571
+"965","Lancaster County PA",42071,"Cesarean",2,1992,-76.1783739,40.0466571
+"966","Lebanon County PA",42075,"Vaginal",1,1039,-76.5025742,40.3666686
+"967","Lebanon County PA",42075,"Cesarean",2,538,-76.5025742,40.3666686
+"968","Lehigh County PA",42077,"Vaginal",1,2997,-75.5742467,40.6519679
+"969","Lehigh County PA",42077,"Cesarean",2,1157,-75.5742467,40.6519679
+"970","Luzerne County PA",42079,"Vaginal",1,2064,-75.9927652,41.1404353
+"971","Luzerne County PA",42079,"Cesarean",2,1094,-75.9927652,41.1404353
+"972","Lycoming County PA",42081,"Vaginal",1,855,-77.1024902,41.2720004
+"973","Lycoming County PA",42081,"Cesarean",2,424,-77.1024902,41.2720004
+"974","Mercer County PA",42085,"Vaginal",1,783,-80.1875065,41.2619821
+"975","Mercer County PA",42085,"Cesarean",2,360,-80.1875065,41.2619821
+"976","Monroe County PA",42089,"Vaginal",1,924,-75.2479061,41.0458376
+"977","Monroe County PA",42089,"Cesarean",2,507,-75.2479061,41.0458376
+"978","Montgomery County PA",42091,"Vaginal",1,5897,-75.3878525,40.2290075
+"979","Montgomery County PA",42091,"Cesarean",2,2855,-75.3878525,40.2290075
+"980","Northampton County PA",42095,"Vaginal",1,1883,-75.294569,40.7749283
+"981","Northampton County PA",42095,"Cesarean",2,937,-75.294569,40.7749283
+"982","Philadelphia County PA",42101,"Vaginal",1,15562,-75.1311874,40.0152766
+"983","Philadelphia County PA",42101,"Cesarean",2,6700,-75.1311874,40.0152766
+"984","Philadelphia County PA",42101,"Not Stated",9,28,-75.1311874,40.0152766
+"985","Schuylkill County PA",42107,"Vaginal",1,933,-76.1783739,40.6873058
+"986","Schuylkill County PA",42107,"Cesarean",2,419,-76.1783739,40.6873058
+"987","Washington County PA",42125,"Vaginal",1,1423,-80.1875065,40.1367719
+"988","Washington County PA",42125,"Cesarean",2,582,-80.1875065,40.1367719
+"989","Washington County PA",42125,"Not Stated",9,11,-80.1875065,40.1367719
+"990","Westmoreland County PA",42129,"Vaginal",1,2208,-79.4703885,40.2353963
+"991","Westmoreland County PA",42129,"Cesarean",2,937,-79.4703885,40.2353963
+"992","York County PA",42133,"Vaginal",1,3431,-76.7336521,39.9512496
+"993","York County PA",42133,"Cesarean",2,1497,-76.7336521,39.9512496
+"994","Unidentified Counties PA",42999,"Vaginal",1,12239,-77.1945247,41.2033216
+"995","Unidentified Counties PA",42999,"Cesarean",2,5364,-77.1945247,41.2033216
+"996","Unidentified Counties PA",42999,"Not Stated",9,38,-77.1945247,41.2033216
+"997","Kent County RI",44003,"Vaginal",1,1060,-71.7147951,41.6579147
+"998","Kent County RI",44003,"Cesarean",2,507,-71.7147951,41.6579147
+"999","Providence County RI",44007,"Vaginal",1,5066,-71.4774291,41.8881582
+"1000","Providence County RI",44007,"Cesarean",2,2190,-71.4774291,41.8881582
+"1001","Providence County RI",44007,"Not Stated",9,26,-71.4774291,41.8881582
+"1002","Washington County RI",44009,"Vaginal",1,623,-71.6673352,41.4568113
+"1003","Washington County RI",44009,"Cesarean",2,286,-71.6673352,41.4568113
+"1006","Aiken County SC",45003,"Vaginal",1,1175,-81.6035062,33.6005783
+"1007","Aiken County SC",45003,"Cesarean",2,616,-81.6035062,33.6005783
+"1008","Anderson County SC",45007,"Vaginal",1,1486,-82.6483442,34.5528328
+"1009","Anderson County SC",45007,"Cesarean",2,800,-82.6483442,34.5528328
+"1010","Beaufort County SC",45013,"Vaginal",1,1469,-80.7214417,32.2860396
+"1011","Beaufort County SC",45013,"Cesarean",2,609,-80.7214417,32.2860396
+"1012","Berkeley County SC",45015,"Vaginal",1,1732,-80.0087746,33.1260618
+"1013","Berkeley County SC",45015,"Cesarean",2,876,-80.0087746,33.1260618
+"1014","Charleston County SC",45019,"Vaginal",1,3180,-79.7848422,32.7956561
+"1015","Charleston County SC",45019,"Cesarean",2,1588,-79.7848422,32.7956561
+"1016","Florence County SC",45041,"Vaginal",1,961,-79.6502105,33.9828684
+"1017","Florence County SC",45041,"Cesarean",2,758,-79.6502105,33.9828684
+"1018","Greenville County SC",45045,"Vaginal",1,4088,-82.345189,34.9297484
+"1019","Greenville County SC",45045,"Cesarean",2,1975,-82.345189,34.9297484
+"1020","Horry County SC",45051,"Vaginal",1,1880,-78.9288242,33.9196567
+"1021","Horry County SC",45051,"Cesarean",2,1293,-78.9288242,33.9196567
+"1022","Lexington County SC",45063,"Vaginal",1,2031,-81.2518833,33.9309651
+"1023","Lexington County SC",45063,"Cesarean",2,1220,-81.2518833,33.9309651
+"1024","Pickens County SC",45077,"Vaginal",1,773,-82.6483442,34.9046217
+"1025","Pickens County SC",45077,"Cesarean",2,389,-82.6483442,34.9046217
+"1026","Richland County SC",45079,"Vaginal",1,3063,-80.9428911,34.0412165
+"1027","Richland County SC",45079,"Cesarean",2,1734,-80.9428911,34.0412165
+"1028","Spartanburg County SC",45083,"Vaginal",1,2314,-81.9534815,34.860551
+"1029","Spartanburg County SC",45083,"Cesarean",2,1181,-81.9534815,34.860551
+"1030","Sumter County SC",45085,"Vaginal",1,1054,-80.4103957,33.9123048
+"1031","Sumter County SC",45085,"Cesarean",2,473,-80.4103957,33.9123048
+"1032","York County SC",45091,"Vaginal",1,1961,-81.2518833,34.9871367
+"1033","York County SC",45091,"Cesarean",2,930,-81.2518833,34.9871367
+"1034","Unidentified Counties SC",45999,"Vaginal",1,9723,-81.1637245,33.836081
+"1035","Unidentified Counties SC",45999,"Cesarean",2,5451,-81.1637245,33.836081
+"1036","Minnehaha County SD",46099,"Vaginal",1,2104,-96.8350999,43.6631787
+"1037","Minnehaha County SD",46099,"Cesarean",2,760,-96.8350999,43.6631787
+"1040","Blount County TN",47009,"Vaginal",1,973,-83.8473015,35.6710541
+"1041","Blount County TN",47009,"Cesarean",2,332,-83.8473015,35.6710541
+"1042","Davidson County TN",47037,"Vaginal",1,6499,-86.8220341,36.1342563
+"1043","Davidson County TN",47037,"Cesarean",2,3415,-86.8220341,36.1342563
+"1044","Hamilton County TN",47065,"Vaginal",1,2795,-85.1479364,35.1618966
+"1045","Hamilton County TN",47065,"Cesarean",2,1376,-85.1479364,35.1618966
+"1046","Knox County TN",47093,"Vaginal",1,3525,-83.9419784,35.9874629
+"1047","Knox County TN",47093,"Cesarean",2,1590,-83.9419784,35.9874629
+"1048","Montgomery County TN",47125,"Vaginal",1,2232,-87.460397,36.4960406
+"1049","Montgomery County TN",47125,"Cesarean",2,996,-87.460397,36.4960406
+"1050","Rutherford County TN",47149,"Vaginal",1,2278,-86.3376761,35.7724263
+"1051","Rutherford County TN",47149,"Cesarean",2,1464,-86.3376761,35.7724263
+"1052","Shelby County TN",47157,"Vaginal",1,8929,-89.9253233,35.1268552
+"1053","Shelby County TN",47157,"Cesarean",2,4840,-89.9253233,35.1268552
+"1054","Sullivan County TN",47163,"Vaginal",1,1006,-82.345189,36.4933147
+"1055","Sullivan County TN",47163,"Cesarean",2,582,-82.345189,36.4933147
+"1056","Sumner County TN",47165,"Vaginal",1,1291,-86.4996546,36.4718084
+"1057","Sumner County TN",47165,"Cesarean",2,710,-86.4996546,36.4718084
+"1058","Washington County TN",47179,"Vaginal",1,872,-82.5185837,36.3321016
+"1059","Washington County TN",47179,"Cesarean",2,457,-82.5185837,36.3321016
+"1060","Williamson County TN",47187,"Vaginal",1,1335,-86.8621827,35.9179271
+"1061","Williamson County TN",47187,"Cesarean",2,763,-86.8621827,35.9179271
+"1062","Unidentified Counties TN",47999,"Vaginal",1,21575,-86.5804473,35.5174913
+"1063","Unidentified Counties TN",47999,"Cesarean",2,10155,-86.5804473,35.5174913
+"1064","Bell County TX",48027,"Vaginal",1,4627,-97.5247243,31.134411
+"1065","Bell County TX",48027,"Cesarean",2,1738,-97.5247243,31.134411
+"1066","Bexar County TX",48029,"Vaginal",1,17215,-98.5721016,29.4200763
+"1067","Bexar County TX",48029,"Cesarean",2,9605,-98.5721016,29.4200763
+"1068","Brazoria County TX",48039,"Vaginal",1,2898,-95.4777811,29.2131857
+"1069","Brazoria County TX",48039,"Cesarean",2,1778,-95.4777811,29.2131857
+"1070","Brazos County TX",48041,"Vaginal",1,1782,-96.3226072,30.6504141
+"1071","Brazos County TX",48041,"Cesarean",2,853,-96.3226072,30.6504141
+"1072","Cameron County TX",48061,"Vaginal",1,3767,-97.5247243,26.1284971
+"1073","Cameron County TX",48061,"Cesarean",2,3616,-97.5247243,26.1284971
+"1074","Collin County TX",48085,"Vaginal",1,6336,-96.4929797,33.1795213
+"1075","Collin County TX",48085,"Cesarean",2,4264,-96.4929797,33.1795213
+"1076","Dallas County TX",48113,"Vaginal",1,26932,-96.8350999,32.8024682
+"1077","Dallas County TX",48113,"Cesarean",2,11778,-96.8350999,32.8024682
+"1078","Denton County TX",48121,"Vaginal",1,6137,-97.179026,33.1418611
+"1079","Denton County TX",48121,"Cesarean",2,3426,-97.179026,33.1418611
+"1080","Ector County TX",48135,"Vaginal",1,2104,-102.5298028,31.8246483
+"1081","Ector County TX",48135,"Cesarean",2,811,-102.5298028,31.8246483
+"1082","Ellis County TX",48139,"Vaginal",1,1396,-96.8350999,32.2619765
+"1083","Ellis County TX",48139,"Cesarean",2,664,-96.8350999,32.2619765
+"1084","El Paso County TX",48141,"Vaginal",1,8208,-106.2051484,31.8039824
+"1085","El Paso County TX",48141,"Cesarean",2,5378,-106.2051484,31.8039824
+"1086","Fort Bend County TX",48157,"Vaginal",1,5382,-95.8142885,29.5692614
+"1087","Fort Bend County TX",48157,"Cesarean",2,3155,-95.8142885,29.5692614
+"1088","Galveston County TX",48167,"Vaginal",1,2488,-94.8520636,29.3763499
+"1089","Galveston County TX",48167,"Cesarean",2,1473,-94.8520636,29.3763499
+"1090","Grayson County TX",48181,"Vaginal",1,943,-96.663812,33.7062406
+"1091","Grayson County TX",48181,"Cesarean",2,565,-96.663812,33.7062406
+"1092","Gregg County TX",48183,"Vaginal",1,1367,-94.8520636,32.4892547
+"1093","Gregg County TX",48183,"Cesarean",2,513,-94.8520636,32.4892547
+"1094","Harris County TX",48201,"Vaginal",1,44529,-95.3102505,29.7751825
+"1095","Harris County TX",48201,"Cesarean",2,23790,-95.3102505,29.7751825
+"1096","Hidalgo County TX",48215,"Vaginal",1,9255,-98.2212979,26.4656319
+"1097","Hidalgo County TX",48215,"Cesarean",2,6813,-98.2212979,26.4656319
+"1098","Jefferson County TX",48245,"Vaginal",1,1956,-94.1513764,29.8165398
+"1099","Jefferson County TX",48245,"Cesarean",2,1582,-94.1513764,29.8165398
+"1100","Johnson County TX",48251,"Vaginal",1,1419,-97.3516558,32.4133566
+"1101","Johnson County TX",48251,"Cesarean",2,591,-97.3516558,32.4133566
+"1102","Lubbock County TX",48303,"Vaginal",1,3021,-101.7979613,33.6753624
+"1103","Lubbock County TX",48303,"Cesarean",2,1106,-101.7979613,33.6753624
+"1104","McLennan County TX",48309,"Vaginal",1,2506,-97.179026,31.5182285
+"1105","McLennan County TX",48309,"Cesarean",2,1011,-97.179026,31.5182285
+"1106","Midland County TX",48329,"Vaginal",1,1954,-101.9804613,31.8781368
+"1107","Midland County TX",48329,"Cesarean",2,746,-101.9804613,31.8781368
+"1108","Montgomery County TX",48339,"Vaginal",1,4120,-95.4777811,30.3213482
+"1109","Montgomery County TX",48339,"Cesarean",2,2507,-95.4777811,30.3213482
+"1110","Nueces County TX",48355,"Vaginal",1,3076,-97.4814163,27.7693351
+"1111","Nueces County TX",48355,"Cesarean",2,1878,-97.4814163,27.7693351
+"1112","Potter County TX",48375,"Vaginal",1,1455,-101.9804613,35.404373
+"1113","Potter County TX",48375,"Cesarean",2,617,-101.9804613,35.404373
+"1114","Randall County TX",48381,"Vaginal",1,1145,-101.7979613,34.9020377
+"1115","Randall County TX",48381,"Cesarean",2,547,-101.7979613,34.9020377
+"1116","Smith County TX",48423,"Vaginal",1,2219,-95.3102505,32.3352505
+"1117","Smith County TX",48423,"Cesarean",2,876,-95.3102505,32.3352505
+"1118","Tarrant County TX",48439,"Vaginal",1,18422,-97.3516558,32.7732044
+"1119","Tarrant County TX",48439,"Cesarean",2,9416,-97.3516558,32.7732044
+"1120","Taylor County TX",48441,"Vaginal",1,1410,-99.8124935,32.2455088
+"1121","Taylor County TX",48441,"Cesarean",2,590,-99.8124935,32.2455088
+"1122","Tom Green County TX",48451,"Vaginal",1,1029,-100.439656,31.3839017
+"1123","Tom Green County TX",48451,"Cesarean",2,529,-100.439656,31.3839017
+"1124","Travis County TX",48453,"Vaginal",1,10475,-97.6982272,30.2097015
+"1125","Travis County TX",48453,"Cesarean",2,5247,-97.6982272,30.2097015
+"1126","Webb County TX",48479,"Vaginal",1,2845,-99.0128926,27.8174487
+"1127","Webb County TX",48479,"Cesarean",2,2710,-99.0128926,27.8174487
+"1128","Wichita County TX",48485,"Vaginal",1,1243,-98.7481167,33.9309651
+"1129","Wichita County TX",48485,"Cesarean",2,522,-98.7481167,33.9309651
+"1130","Williamson County TX",48491,"Vaginal",1,4053,-97.6982272,30.7591685
+"1131","Williamson County TX",48491,"Cesarean",2,1997,-97.6982272,30.7591685
+"1132","Unidentified Counties TX",48999,"Vaginal",1,43202,-99.9018131,31.9685988
+"1133","Unidentified Counties TX",48999,"Cesarean",2,23699,-99.9018131,31.9685988
+"1134","Davis County UT",49011,"Vaginal",1,4366,-112.0953297,40.9628845
+"1135","Davis County UT",49011,"Cesarean",2,1375,-112.0953297,40.9628845
+"1136","Salt Lake County UT",49035,"Vaginal",1,13803,-111.9522491,40.644188
+"1137","Salt Lake County UT",49035,"Cesarean",2,4242,-111.9522491,40.644188
+"1138","Utah County UT",49049,"Vaginal",1,9509,-111.5706786,40.0966287
+"1139","Utah County UT",49049,"Cesarean",2,2351,-111.5706786,40.0966287
+"1140","Weber County UT",49057,"Vaginal",1,2930,-111.9522491,41.2602635
+"1141","Weber County UT",49057,"Cesarean",2,905,-111.9522491,41.2602635
+"1142","Unidentified Counties UT",49999,"Vaginal",1,8945,-111.0937311,39.3209801
+"1143","Unidentified Counties UT",49999,"Cesarean",2,2530,-111.0937311,39.3209801
+"1144","Chittenden County VT",50007,"Vaginal",1,1215,-72.9962431,44.3959289
+"1145","Chittenden County VT",50007,"Cesarean",2,385,-72.9962431,44.3959289
+"1146","Unidentified Counties VT",50999,"Vaginal",1,3129,-72.5778415,44.5588028
+"1147","Unidentified Counties VT",50999,"Cesarean",2,1243,-72.5778415,44.5588028
+"1148","Arlington County VA",51013,"Vaginal",1,1956,-77.0909809,38.8816208
+"1149","Arlington County VA",51013,"Cesarean",2,1246,-77.0909809,38.8816208
+"1150","Chesterfield County VA",51041,"Vaginal",1,2442,-77.6077865,37.3673217
+"1151","Chesterfield County VA",51041,"Cesarean",2,1324,-77.6077865,37.3673217
+"1152","Fairfax County VA",51059,"Vaginal",1,8767,-77.2405153,38.9085472
+"1153","Fairfax County VA",51059,"Cesarean",2,5885,-77.2405153,38.9085472
+"1154","Henrico County VA",51087,"Vaginal",1,2476,-77.3324425,37.5059332
+"1155","Henrico County VA",51087,"Cesarean",2,1424,-77.3324425,37.5059332
+"1156","Loudoun County VA",51107,"Vaginal",1,3076,-77.6536125,39.076767
+"1157","Loudoun County VA",51107,"Cesarean",2,1938,-77.6536125,39.076767
+"1158","Prince William County VA",51153,"Vaginal",1,4372,-77.6077865,38.7838939
+"1159","Prince William County VA",51153,"Cesarean",2,2426,-77.6077865,38.7838939
+"1160","Alexandria city VA",51510,"Vaginal",1,1748,-77.0469214,38.8048355
+"1161","Alexandria city VA",51510,"Cesarean",2,1058,-77.0469214,38.8048355
+"1162","Chesapeake city VA",51550,"Vaginal",1,1846,-76.2874927,36.7682088
+"1163","Chesapeake city VA",51550,"Cesarean",2,939,-76.2874927,36.7682088
+"1164","Hampton city VA",51650,"Vaginal",1,1335,-76.3452218,37.0298687
+"1165","Hampton city VA",51650,"Cesarean",2,488,-76.3452218,37.0298687
+"1166","Newport News city VA",51700,"Vaginal",1,2043,-76.4730122,37.0870821
+"1167","Newport News city VA",51700,"Cesarean",2,818,-76.4730122,37.0870821
+"1168","Norfolk city VA",51710,"Vaginal",1,2620,-76.2858726,36.8507689
+"1169","Norfolk city VA",51710,"Cesarean",2,1117,-76.2858726,36.8507689
+"1170","Portsmouth city VA",51740,"Vaginal",1,1074,-76.2982742,36.8354258
+"1171","Portsmouth city VA",51740,"Cesarean",2,476,-76.2982742,36.8354258
+"1172","Richmond city VA",51760,"Vaginal",1,1946,-77.4360481,37.5407246
+"1173","Richmond city VA",51760,"Cesarean",2,891,-77.4360481,37.5407246
+"1174","Virginia Beach city VA",51810,"Vaginal",1,4135,-75.977985,36.8529263
+"1175","Virginia Beach city VA",51810,"Cesarean",2,1881,-75.977985,36.8529263
+"1176","Unidentified Counties VA",51999,"Vaginal",1,27840,-78.6568942,37.4315734
+"1177","Unidentified Counties VA",51999,"Cesarean",2,12549,-78.6568942,37.4315734
+"1178","Benton County WA",53005,"Vaginal",1,1800,-119.5021582,46.3166362
+"1179","Benton County WA",53005,"Cesarean",2,712,-119.5021582,46.3166362
+"1180","Clark County WA",53011,"Vaginal",1,3885,-122.5194378,45.7466471
+"1181","Clark County WA",53011,"Cesarean",2,1451,-122.5194378,45.7466471
+"1182","King County WA",53033,"Vaginal",1,17031,-121.9836029,47.5480339
+"1183","King County WA",53033,"Cesarean",2,7870,-121.9836029,47.5480339
+"1184","Kitsap County WA",53035,"Vaginal",1,2042,-122.6412583,47.6476607
+"1185","Kitsap County WA",53035,"Cesarean",2,793,-122.6412583,47.6476607
+"1186","Pierce County WA",53053,"Vaginal",1,8082,-122.1295269,47.0675877
+"1187","Pierce County WA",53053,"Cesarean",2,3036,-122.1295269,47.0675877
+"1188","Skagit County WA",53057,"Vaginal",1,1057,-121.7114362,48.4241961
+"1189","Skagit County WA",53057,"Cesarean",2,380,-121.7114362,48.4241961
+"1190","Snohomish County WA",53061,"Vaginal",1,6707,-121.8339472,48.0329979
+"1191","Snohomish County WA",53061,"Cesarean",2,2705,-121.8339472,48.0329979
+"1192","Spokane County WA",53063,"Vaginal",1,4577,-117.4225481,47.658693
+"1193","Spokane County WA",53063,"Cesarean",2,1484,-117.4225481,47.658693
+"1194","Thurston County WA",53067,"Vaginal",1,2284,-122.7695986,46.8645747
+"1195","Thurston County WA",53067,"Cesarean",2,758,-122.7695986,46.8645747
+"1196","Whatcom County WA",53073,"Vaginal",1,1601,-121.9718657,48.8787167
+"1197","Whatcom County WA",53073,"Cesarean",2,642,-121.9718657,48.8787167
+"1198","Yakima County WA",53077,"Vaginal",1,3140,-120.7558292,46.543606
+"1199","Yakima County WA",53077,"Cesarean",2,813,-120.7558292,46.543606
+"1200","Unidentified Counties WA",53999,"Vaginal",1,9858,-120.7401386,47.7510741
+"1201","Unidentified Counties WA",53999,"Cesarean",2,3868,-120.7401386,47.7510741
+"1202","Kanawha County WV",54039,"Vaginal",1,1281,-81.4278984,38.2556905
+"1203","Kanawha County WV",54039,"Cesarean",2,972,-81.4278984,38.2556905
+"1204","Unidentified Counties WV",54999,"Vaginal",1,12012,-80.4549026,38.5976262
+"1205","Unidentified Counties WV",54999,"Cesarean",2,6483,-80.4549026,38.5976262
+"1206","Unidentified Counties WV",54999,"Not Stated",9,74,-80.4549026,38.5976262
+"1207","Brown County WI",55009,"Vaginal",1,2553,-87.9334803,44.4561674
+"1208","Brown County WI",55009,"Cesarean",2,836,-87.9334803,44.4561674
+"1209","Dane County WI",55025,"Vaginal",1,4494,-89.5497632,43.0186073
+"1210","Dane County WI",55025,"Cesarean",2,1564,-89.5497632,43.0186073
+"1211","Kenosha County WI",55059,"Vaginal",1,1365,-88.0533751,42.5810954
+"1212","Kenosha County WI",55059,"Cesarean",2,624,-88.0533751,42.5810954
+"1213","La Crosse County WI",55063,"Vaginal",1,972,-91.135302,43.8617023
+"1214","La Crosse County WI",55063,"Cesarean",2,259,-91.135302,43.8617023
+"1215","Marathon County WI",55073,"Vaginal",1,1117,-89.8505012,44.850452
+"1216","Marathon County WI",55073,"Cesarean",2,457,-89.8505012,44.850452
+"1217","Milwaukee County WI",55079,"Vaginal",1,10661,-87.9065334,43.0387949
+"1218","Milwaukee County WI",55079,"Cesarean",2,3344,-87.9065334,43.0387949
+"1219","Milwaukee County WI",55079,"Not Stated",9,20,-87.9065334,43.0387949
+"1220","Outagamie County WI",55087,"Vaginal",1,1659,-88.4016041,44.4636545
+"1221","Outagamie County WI",55087,"Cesarean",2,604,-88.4016041,44.4636545
+"1222","Racine County WI",55101,"Vaginal",1,1718,-88.0326922,42.727213
+"1223","Racine County WI",55101,"Cesarean",2,659,-88.0326922,42.727213
+"1224","Rock County WI",55105,"Vaginal",1,1349,-89.0179332,42.6251506
+"1225","Rock County WI",55105,"Cesarean",2,605,-89.0179332,42.6251506
+"1226","Sheboygan County WI",55117,"Vaginal",1,906,-87.9284801,43.7173595
+"1227","Sheboygan County WI",55117,"Cesarean",2,326,-87.9284801,43.7173595
+"1228","Washington County WI",55131,"Vaginal",1,915,-88.2461183,43.3932586
+"1229","Washington County WI",55131,"Cesarean",2,426,-88.2461183,43.3932586
+"1230","Waukesha County WI",55133,"Vaginal",1,2753,-88.3239309,43.0072599
+"1231","Waukesha County WI",55133,"Cesarean",2,943,-88.3239309,43.0072599
+"1232","Winnebago County WI",55139,"Vaginal",1,1325,-88.7108964,44.0126679
+"1233","Winnebago County WI",55139,"Cesarean",2,529,-88.7108964,44.0126679
+"1234","Unidentified Counties WI",55999,"Vaginal",1,17352,-88.7878678,43.7844397
+"1235","Unidentified Counties WI",55999,"Cesarean",2,6278,-88.7878678,43.7844397
+"1236","Unidentified Counties WI",55999,"Not Stated",9,17,-88.7878678,43.7844397

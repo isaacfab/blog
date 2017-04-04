@@ -1,0 +1,261 @@
+---
+title: "The Tragedy of Children Dying from Heatstroke in Vehicles"
+author: "By: Isaac J. Faber"
+date: "July 11, 2015"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Vignette Title}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r,echo=FALSE,results='asis',tidy=FALSE,message=FALSE}
+library(sp)
+library(googleVis)
+library(rworldmap)
+library(ggplot2)
+library(tm)
+library(d3heatmap)
+op <- options(gvis.plot.tag=NULL)
+setwd("/Users/isaacfaber/Dropbox/blogs")
+data<-read.csv("hs.csv",strip.white=T,header=T)
+
+#reformat the date column
+data$Date<-as.Date(data$Date,format="%m/%d/%y")
+data$Circumstance<-as.character(data$Circumstance)
+#quick change for one value
+data$Circumstance[88]<-c("Gained Access on Own")
+
+```
+
+There is a disturbingly consistent trend in the United States.  On average, every year about 37 children die of heatstroke in a vehicle after being trapped inside.  Making this the leading, non-crash related, vehicle death for children nationwide.  The chart below shows that the trend line over the past two decades is alarmingly flat.  
+
+**Deaths Per Year**  
+```{r,echo=FALSE,results='asis',tidy=FALSE,fig.width=6, fig.height=5,message=FALSE}
+hold<-as.data.frame(table(data$year))
+hold$Freq<-as.numeric(hold$Freq)
+hold$Var1<-as.character(hold$Var1)
+hold$Var1<-as.numeric(hold$Var1)
+
+  ggplot(hold,aes(x=Var1,y=Freq))+geom_line()+
+  scale_y_continuous(limit=c(0,50))+
+  ylab("Deaths Per Year")+xlab("")+
+  stat_smooth(method="lm")+
+  theme_bw()
+```
+  
+What you probably didn't know is that this month, July, is the most dangerous time of the year.  You probably also didn't know that this type of death can occour on realivly mild days as well.  The details are horrific for any parent to imagine; a rapidly rising temperature that reaches an unlivable level in only a few short minutes.  The child is either restrained or does not understand how the door handle is properly operated.  It is tragic.  
+
+The circumstances of these deaths are not widely known; which, in turn, means parents are likely not equipped with understanding.  A few months ago there was a spat of articles and blog posts concerning if it was okay to leave your child in the car for the few moments that a parent might need to run a quick errand.  Commonly the result of such an action is nothing.  The second most common thing is for authorities to be called and some type of legal ordeal ensues.  There is a third, and much worse alternative; the child dies.  However, the typical conditions for such a death are not well known.
+
+As I became curious about this question I turned to common, publically available, data sources related to general health, and found nothing.  What I did find is a large amount of resources that are driven by volunteers.  There is a small campaign by the Department of National Highway Traffic and Safety Administration (NHTSA) but no raw data was offered, only summary statistics.  After a small amount of digging on the topic I ran across the website of Jan Null a meteorologist at San Jose State.  
+
+Jan probably deserves an award for what he has done concerning the data of heatstroke deaths.  He saw a few years ago that there was no reliable source of data for these types of deaths so began developing his own database.  When a death occurs he scours the public records and extracts, as many as, 25 different pieces of information about the event.  His effort has resulted in the most comprehensive and reliable dataset related to heatstroke deaths of children in vehicles.  In a strange twist of priority the NHTSA (and semingly everyone else) now uses his data as the authoritative information source.  
+
+Upon request, Jan allowed me to use his hard earned data to write this article.  With a rich source of information about these deaths, we can explore the sets of conditions that lead to these very preventable incidences.
+
+I will walk through the data on three levels; circumstance, location and time.  The first consideration of interest is how the child got into the vehicle in the first place.  The following pie chart shows the distribution.
+
+  **Circumstance Resulting in Death**
+```{r,echo=FALSE,results='asis',tidy=FALSE,message=FALSE}
+y<-table(data$Circumstance)
+y<-as.data.frame(y)
+y<-y[y$Freq!=y$Freq[1],]
+
+Pie <- gvisPieChart(y,options=list(height=500,width=800))
+plot(Pie)
+```
+
+As you can see the majority of children are simply forgotten in the vehicle.  However, a large portion is intentionally left behind.  Perhaps the child was sleeping or something that justified the act like a quick trip inside.  The description of place of death is also informative.  
+  
+**Place of Death**    
+```{r,echo=FALSE,results='asis',tidy=FALSE,message=FALSE}
+y<-table(data$Location.Descrip)
+y<-as.data.frame(y)
+
+
+Pie <- gvisPieChart(y,options=list(height=500,width=800))
+plot(Pie)
+```
+
+Beyond the human caused reasons, the primary (and obvious) factor related to the deaths is temperature.  The following chart shows the frequency of deaths by month and temperature.  
+
+**Month of Death Compared to Day's High Temperature**  
+```{r,echo=FALSE,results='asis',tidy=FALSE,fig.width=6, fig.height=5,message=FALSE}
+lat.mon <- ggplot(data, aes(x=mon, y=temp))  
+lat.mon + 
+  stat_bin2d() +
+  scale_fill_gradient(low="#ffeda0", high="#f03b20", limits=c(1, 50))+
+  scale_x_continuous(breaks=c(1:12),limits=c(1,12),labels=c("January","February","March",
+                                                            "April","May","June","July",
+                                                            "August","September","October",
+                                                            "November","December"))+
+  scale_y_continuous(breaks=c(30,60,75,90,120),limits=c(30,120),labels=c("30","60","95% level-75","90","120"))+
+  ylab("Day's High Temperature")+xlab("")+
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=90, vjust=1))
+```
+
+The majority of deaths take place in the summer months, however, that is simply because it is hotter during this time.  The temperature above which 95% of all deaths take place is 75 degrees Fahrenheit.  For most places in the country, that is spring, summer and fall.  However, it is worth pointing out that several deaths take place at temperatures much lower than 75.  
+
+One important consideration with vehicles is that, when left at rest, they turn into ovens.  One rule of thumb is that after about 30 minutes the temperature inside a car is 34 degrees hotter than the outside temperature.  In just one hour the thermometer inside a vehicle would be 43 degrees hotter than outside.  Because heatstroke for a child starts at 104 degrees, a relatively mild day can become deadly in a short period of time.  Of course the younger a child is the more susceptible they are.  The following visual shows the deaths by age of child (in months) and the time they were in the vehicle before being discovered.
+
+**Duration Left in Vehcile and Age**  
+
+```{r,echo=FALSE,results='asis',tidy=FALSE,fig.width=6, fig.height=6,message=FALSE}
+hold<-data[data$Circumstance!="Unknown"&data$Circumstance!="",]
+dur.age<-ggplot(hold,aes(x=Hours.2,y=Age.m))
+
+dur.age +
+  stat_bin2d()+
+  scale_fill_gradient(low="#ffeda0", high="#f03b20", limits=c(1, 15)) +
+  scale_x_continuous(breaks=c(.5,6,12,18,24),limits=c(0,24),labels=c("Half Hour Death Line",6,12,18,24))+
+  scale_y_continuous(limits=c(0,100))+
+  ylab("Age in Months")+xlab("Hours Left in Vehicle")+
+  geom_vline(xintercept=.5,color="black")+
+  theme_bw()+
+  facet_grid(Circumstance~., scales="free_y", space="free_y")
+
+```
+  
+There is an obvious clustering of children that are 36 months and younger for those that are forgotten or left behind.  Durations longer than half an hour and under this age are very dangerous.  Older children that can make their way into the car own tend to be between four and eight years of age.  
+
+Because temperature is the primary factor related to heatstroke deaths, it is worth exploring in what places death occurs to see if it correlates.  In other words; are hotter places consistent with the places that deaths occur?  The following is a map of deaths by city in the United States.
+
+
+**By City Map of Deaths**
+```{r,echo=FALSE,results='asis',tidy=FALSE,message=FALSE}
+y<-read.csv("y.csv",header=T)
+
+map<- gvisGeoChart(y, locationvar="latlong", 
+                 # sizevar='Heatstroke.Deaths',
+                   colorvar='Heatstroke.Deaths', 
+                  hovervar='City',
+                   options=list(height=600,width=700,colorAxis= "{values:[1,10],
+                                        colors:[\'red',\'black']}",
+                                region="US",
+                                resolution="provinces"))
+plot(map)
+```
+  
+It is clear that the majority of deaths take place in the southern most states.  The following chart shows the latitude (north/south measure) by month for frequency of deaths.
+  
+**Month of Death Compared to Latitude**  
+```{r,echo=FALSE,results='asis',tidy=FALSE,fig.width=6, fig.height=5,message=FALSE}
+lat.mon <- ggplot(data, aes(x=mon, y=lat))  
+lat.mon + 
+  stat_bin2d() +
+  scale_fill_gradient(low="#ffeda0", high="#f03b20", limits=c(1, 20))+
+  scale_x_continuous(breaks=c(1:12),limits=c(1,12),labels=c("January","February","March",
+                                                            "April","May","June","July",
+                                                            "August","September","October",
+                                                            "November","December"))+
+  scale_y_continuous(breaks=c(42.3,36,32,25),limits=c(20,45),labels=c("95% level-Boston","Las Vegas","Dallas","Miami"))+
+  ylab("Latitude")+xlab("")+
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=90, vjust=1))
+```
+  
+This view shows that 95% of all deaths take place at latitudes south of Boston (the majority of the country) but tend to concentrate along the level of Dallas and Las Vegas.  One might think that because the southern states are typically hotter than the rest of the country people would be more diligent, but that does not seem to be the case.  
+
+Florida has the most wide spread geographic reported deaths and Texas has the most (at 95).  However, most other states tend to concentrate deaths in the major population areas.  There are four states that have never reported a death; New Hampshire, Vermont, Wyoming and Alaska.  
+
+In addition to location specifics it is also worth while to take an in-depth look at time based views.  This first heatmap shows, by day, the deaths in the past five years.
+  
+**Calendar Heatmap**
+```{r,echo=FALSE,results='asis',tidy=FALSE,message=FALSE}
+
+#build a calendar heatmap
+new.data<-data[data$year>=2010,]
+new.data<-na.exclude(new.data)
+cal<-as.data.frame(table(new.data$Date))
+colnames(cal)<-c("Date","Heatstroke.Death")
+cal$Date<-as.Date(cal$Date)
+Cal <- gvisCalendar(cal, 
+                    datevar="Date", 
+                    numvar="Heatstroke.Death",
+                    options=list(
+                      title="Heatstroke Deaths of Children in Vehicles",
+                      height=500,
+                      calendar="{yearLabel: { fontName: 'Times-Roman',
+                               fontSize: 32, color: '#1A8763', bold: true},
+                               cellSize: 10,
+                               cellColor: { stroke: 'red', strokeOpacity: 0 },
+                               focusedCellColor: {stroke:'red'}}")
+)
+plot(Cal)
+```
+
+There is obviously a much larger occurrence in the summer months.  However, there are several notable exceptions (as shown before).  In particular, one week in 2012, during November and December there were four deaths.  In order to better view the by month data the following heatmap shows the density, by year, for the period that data is collected.  
+  
+**By Month Heatmap**
+```{r,echo=FALSE,results='asis',tidy=FALSE,fig.width=6, fig.height=5,message=FALSE}
+temp<-unique(data$year)
+temp<-na.exclude(temp)
+heat.map<-data.frame(January=0,February=0,March=0,April=4,May=4,June=8,July=7,
+                     August=3,September=2,October=3,November=0,December=0)
+ hold2<-colnames(heat.map)
+ hold3<-heat.map
+for(i in 2:length(temp)){
+  sub<-data[data$year==temp[i],]
+  tab<-as.data.frame(table(sub$month))
+  hold4<-hold3
+  for(j in 1:12){
+    x<-hold2[j]
+   sub2<-tab[tab$Var1==x,]
+      if(length(sub2$Freq) > 0){
+        hold4[1,j]<-sub2$Freq[1]
+      }
+  }
+  heat.map<-rbind(heat.map,hold4)
+}
+ 
+rownames(heat.map)<-as.character(temp)
+
+d3heatmap(heat.map,Rowv=F,Colv=F,colors="YlOrRd")
+```
+      
+
+One last important view is the day of the week information.  This first view shows the frequency of deaths by day of week.
+  
+**Day of Week**
+```{r,echo=FALSE,results='asis',tidy=FALSE,fig.width=7, fig.height=4,message=FALSE,warning=FALSE}
+hold<-data[data$Hours.2<24&!is.na(data$weekday),]
+hold<-hold[hold$Circumstance!="Unknown",]
+hold$weekday<-as.character(hold$weekday)
+hold$weekday<-factor(hold$weekday,levels=c("Monday","Tuesday","Wednesday","Thursday",
+                                              "Friday","Saturday","Sunday"))
+ggplot(hold, aes(x=weekday, fill=Circumstance)) + geom_bar(position="dodge") +
+  ylab("Total Count by Weekday")+xlab("")+
+  scale_x_discrete(limits=c("Monday","Tuesday","Wednesday","Thursday",
+                            "Friday","Saturday","Sunday"))+
+  theme_bw()
+```
+  
+There is a consistent trend where children that are forgotten seem to be mid to late workweek and then taper off on the weekend.  However, those that are left behind are more consistent and kids that gain access on their own peeks on Sunday.  Another interesting view is to compare, by day of week, how long the child was in the vehicle. 
+
+**Duration in Vehcile by Day of Week**
+```{r,echo=FALSE,results='asis',tidy=FALSE,fig.width=6, fig.height=5,message=FALSE,warning=FALSE}
+hold<-data[data$Hours.2<24&!is.na(data$weekday),]
+hold$weekday<-as.character(hold$weekday)
+hold$weekday<-factor(hold$weekday,levels=c("Monday","Tuesday","Wednesday","Thursday",
+                                              "Friday","Saturday","Sunday"))
+ggplot(hold, aes(x=weekday, y=Hours.2)) + geom_boxplot(notch=T) +
+  stat_summary(fun.y="mean", geom="point", shape=23, size=3, fill="white")+
+  ylab("Duration Left in Vehicle")+xlab("")+
+  scale_x_discrete(limits=c("Monday","Tuesday","Wednesday","Thursday",
+                            "Friday","Saturday","Sunday"))+
+  theme_bw()
+```
+  
+There is also trend, similar to those who were forgotten, where duration in the vehicle is longer (on average) during workweek days and shorter on the weekend.
+
+Heatstroke deaths of children in vehicles are a tragic trend.  Parents need to know that leaving a child in a car, even for on minute, should not be an option.  Please understand that there is no excuse for leaving a child.  However, you should be extra careful on days hotter than 75 degrees.  Set a series of reminders to help yourself not make the worst mistake of your life.
+
+There needs to be a push to adopt technical solutions to help busy parents remember.  In today’s digital age with reminders for everything from pills to seatbelts, this solved problem sorely needs the nations attention.  Interior weight or motion sensors tied to climate control, smart phone automatic reminders or automatic car alarms are all simple solutions that could be deployed today.  
+
+There is a precedent for such a change.  The past half-decade has seen most new vehicles become equipped with back up cameras.  This simple change has shown real promise in reducing back-over deaths.  If we work on smarter ways to address the problem of heatstroke deaths, these tragic events could become outdated.
+
+
+
+  
